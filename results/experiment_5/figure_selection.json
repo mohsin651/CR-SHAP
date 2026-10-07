@@ -1,0 +1,77 @@
+[
+  {
+    "stratum": "improvement",
+    "index": 148,
+    "image_id": "4846324908"
+  },
+  {
+    "stratum": "improvement",
+    "index": 237,
+    "image_id": "3903017514"
+  },
+  {
+    "stratum": "improvement",
+    "index": 89,
+    "image_id": "1801663973"
+  },
+  {
+    "stratum": "improvement",
+    "index": 252,
+    "image_id": "16151663"
+  },
+  {
+    "stratum": "improvement",
+    "index": 161,
+    "image_id": "246231741"
+  },
+  {
+    "stratum": "near_zero",
+    "index": 31,
+    "image_id": "166283675"
+  },
+  {
+    "stratum": "near_zero",
+    "index": 81,
+    "image_id": "314739483"
+  },
+  {
+    "stratum": "near_zero",
+    "index": 176,
+    "image_id": "3970114165"
+  },
+  {
+    "stratum": "near_zero",
+    "index": 14,
+    "image_id": "42348693"
+  },
+  {
+    "stratum": "near_zero",
+    "index": 197,
+    "image_id": "4735200580"
+  },
+  {
+    "stratum": "worsening",
+    "index": 145,
+    "image_id": "416992999"
+  },
+  {
+    "stratum": "worsening",
+    "index": 41,
+    "image_id": "3039200576"
+  },
+  {
+    "stratum": "worsening",
+    "index": 122,
+    "image_id": "2870426310"
+  },
+  {
+    "stratum": "worsening",
+    "index": 108,
+    "image_id": "4773842539"
+  },
+  {
+    "stratum": "worsening",
+    "index": 116,
+    "image_id": "4830651041"
+  }
+]

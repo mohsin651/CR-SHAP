@@ -1,0 +1,93 @@
+{
+  "n": 299,
+  "primary": "Pointing Game",
+  "secondary": "Energy Inside Box",
+  "pointing_game": {
+    "n": 299,
+    "point_mean": 0.8361204013377926,
+    "point_median": 1.0,
+    "cr_mean": 0.7859531772575251,
+    "cr_median": 1.0,
+    "mean_difference": -0.05016722408026756,
+    "median_difference": 0.0,
+    "relative_mean_improvement_percent": -6.0,
+    "cr_wins": 15,
+    "point_wins": 30,
+    "ties": 254,
+    "wilcoxon": {
+      "statistic": 345.0,
+      "pvalue": 0.025347318677468252,
+      "alternative": "two-sided"
+    },
+    "paired_bootstrap_ci95": {
+      "low": -0.09364548494983277,
+      "high": -0.006688963210702341,
+      "resamples": 10000,
+      "seed": 42,
+      "method": "paired percentile over unique query images"
+    },
+    "difference_sign": "CR minus Pointwise",
+    "exact_mcnemar_pvalue": 0.035697803555194696,
+    "paired_outcomes": {
+      "neither": 34,
+      "point_only": 30,
+      "cr_only": 15,
+      "both": 220
+    }
+  },
+  "eib": {
+    "n": 299,
+    "point_mean": 0.698371223048012,
+    "point_median": 0.728928475141398,
+    "cr_mean": 0.6968705233003931,
+    "cr_median": 0.7630679694316232,
+    "mean_difference": -0.0015006997476189289,
+    "median_difference": 0.0009089429009364602,
+    "relative_mean_improvement_percent": -0.2148856794340963,
+    "cr_wins": 154,
+    "point_wins": 142,
+    "ties": 3,
+    "wilcoxon": {
+      "statistic": 21332.0,
+      "pvalue": 0.6611576768115173,
+      "alternative": "two-sided"
+    },
+    "paired_bootstrap_ci95": {
+      "low": -0.015837999154475774,
+      "high": 0.01320227018413325,
+      "resamples": 10000,
+      "seed": 42,
+      "method": "paired percentile over unique query images"
+    },
+    "difference_sign": "CR minus Pointwise"
+  },
+  "positive_area": {
+    "n": 299,
+    "point_mean": 0.8111615359011016,
+    "point_median": 0.8072694610778444,
+    "cr_mean": 0.6025851579692041,
+    "cr_median": 0.6094613333333333,
+    "mean_difference": -0.2085763779318974,
+    "median_difference": -0.18386493506493506,
+    "relative_mean_improvement_percent": -25.713297376729585,
+    "cr_wins": 28,
+    "point_wins": 270,
+    "ties": 1,
+    "wilcoxon": {
+      "statistic": 1136.0,
+      "pvalue": 9.242399418428114e-46,
+      "alternative": "two-sided"
+    },
+    "paired_bootstrap_ci95": {
+      "low": -0.22755849657829547,
+      "high": -0.1901119376371844,
+      "resamples": 10000,
+      "seed": 42,
+      "method": "paired percentile over unique query images"
+    },
+    "difference_sign": "CR minus Pointwise"
+  },
+  "gt_union_area_mean": 0.6088107951006599,
+  "difference_sign": "CR minus Pointwise for every reported metric; negative area difference means less positive area, not worse grounding.",
+  "testing": "Paired exact McNemar for primary Pointing Game; two-sided Wilcoxon for secondary EIB; percentile paired bootstrap10000 seed42; no equivalence inference or multiplicity correction."
+}

@@ -1,0 +1,542 @@
+[
+  {
+    "image_id": "19966",
+    "method": "mean",
+    "explanation_seconds": 0.6979802000005293,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "19966",
+    "method": "lama",
+    "explanation_seconds": 4.689600800000335,
+    "peak_vram_bytes": 943280640
+  },
+  {
+    "image_id": "19966",
+    "method": "lama_expanded",
+    "explanation_seconds": 4.587096299999757,
+    "peak_vram_bytes": 943280640
+  },
+  {
+    "image_id": "16318",
+    "method": "mean",
+    "explanation_seconds": 0.703477600000042,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "16318",
+    "method": "lama",
+    "explanation_seconds": 5.785581599999205,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "16318",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.670467299998563,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "13418",
+    "method": "mean",
+    "explanation_seconds": 0.8088587000002008,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "13418",
+    "method": "lama",
+    "explanation_seconds": 5.289471300000514,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "13418",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.182490399998642,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "26607",
+    "method": "mean",
+    "explanation_seconds": 0.836773600000015,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "26607",
+    "method": "lama",
+    "explanation_seconds": 6.444263999999748,
+    "peak_vram_bytes": 1008604672
+  },
+  {
+    "image_id": "26607",
+    "method": "lama_expanded",
+    "explanation_seconds": 6.314628400001311,
+    "peak_vram_bytes": 1008604672
+  },
+  {
+    "image_id": "2765",
+    "method": "mean",
+    "explanation_seconds": 0.8023493999990023,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "2765",
+    "method": "lama",
+    "explanation_seconds": 5.290667100000064,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "2765",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.107077999999092,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "2918",
+    "method": "mean",
+    "explanation_seconds": 0.8856821999997919,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "2918",
+    "method": "lama",
+    "explanation_seconds": 5.783170299999256,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "2918",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.69129459999931,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "5660",
+    "method": "mean",
+    "explanation_seconds": 0.8756572000002052,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "5660",
+    "method": "lama",
+    "explanation_seconds": 5.809720999999627,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "5660",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.918252299999949,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "25515",
+    "method": "mean",
+    "explanation_seconds": 0.8076631999992969,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "25515",
+    "method": "lama",
+    "explanation_seconds": 5.31082890000107,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "25515",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.476040899999134,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "24367",
+    "method": "mean",
+    "explanation_seconds": 0.8112948000016331,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "24367",
+    "method": "lama",
+    "explanation_seconds": 5.281631100000595,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "24367",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.374600899998768,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "21612",
+    "method": "mean",
+    "explanation_seconds": 0.8107178999998723,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "21612",
+    "method": "lama",
+    "explanation_seconds": 5.674128099999507,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "21612",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.555268000000069,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "3971",
+    "method": "mean",
+    "explanation_seconds": 0.755305299999236,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "3971",
+    "method": "lama",
+    "explanation_seconds": 5.882610900000145,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "3971",
+    "method": "lama_expanded",
+    "explanation_seconds": 6.066378100000293,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "6244",
+    "method": "mean",
+    "explanation_seconds": 0.7383480999997118,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "6244",
+    "method": "lama",
+    "explanation_seconds": 5.899702099999558,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "6244",
+    "method": "lama_expanded",
+    "explanation_seconds": 6.040241199998491,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "30240",
+    "method": "mean",
+    "explanation_seconds": 0.891942399999607,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "30240",
+    "method": "lama",
+    "explanation_seconds": 6.705508799999734,
+    "peak_vram_bytes": 1000296448
+  },
+  {
+    "image_id": "30240",
+    "method": "lama_expanded",
+    "explanation_seconds": 6.724016599999231,
+    "peak_vram_bytes": 1000296448
+  },
+  {
+    "image_id": "15910",
+    "method": "mean",
+    "explanation_seconds": 0.8303179999984422,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "15910",
+    "method": "lama",
+    "explanation_seconds": 5.963411299999279,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "15910",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.954926599999453,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "26034",
+    "method": "mean",
+    "explanation_seconds": 0.8910583999986557,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "26034",
+    "method": "lama",
+    "explanation_seconds": 6.817885300000853,
+    "peak_vram_bytes": 996347392
+  },
+  {
+    "image_id": "26034",
+    "method": "lama_expanded",
+    "explanation_seconds": 6.800995100000364,
+    "peak_vram_bytes": 996347392
+  },
+  {
+    "image_id": "24235",
+    "method": "mean",
+    "explanation_seconds": 0.8391069999997853,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "24235",
+    "method": "lama",
+    "explanation_seconds": 5.904145000000426,
+    "peak_vram_bytes": 981812224
+  },
+  {
+    "image_id": "24235",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.926168300000427,
+    "peak_vram_bytes": 981812224
+  },
+  {
+    "image_id": "11496",
+    "method": "mean",
+    "explanation_seconds": 0.6058422000005521,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "11496",
+    "method": "lama",
+    "explanation_seconds": 4.543194699999731,
+    "peak_vram_bytes": 926303744
+  },
+  {
+    "image_id": "11496",
+    "method": "lama_expanded",
+    "explanation_seconds": 4.815872900000613,
+    "peak_vram_bytes": 926303744
+  },
+  {
+    "image_id": "22806",
+    "method": "mean",
+    "explanation_seconds": 0.7414451999993616,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "22806",
+    "method": "lama",
+    "explanation_seconds": 5.364877899999556,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "22806",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.463493200000812,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "12479",
+    "method": "mean",
+    "explanation_seconds": 0.8732622000006813,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "12479",
+    "method": "lama",
+    "explanation_seconds": 5.983412699999462,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "12479",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.995728400001099,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "13599",
+    "method": "mean",
+    "explanation_seconds": 0.7480221000005258,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "13599",
+    "method": "lama",
+    "explanation_seconds": 5.46158319999995,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "13599",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.483084499999677,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "13752",
+    "method": "mean",
+    "explanation_seconds": 0.7646387000004324,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "13752",
+    "method": "lama",
+    "explanation_seconds": 5.517603299998882,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "13752",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.488997699998436,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "16915",
+    "method": "mean",
+    "explanation_seconds": 0.7643225000010716,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "16915",
+    "method": "lama",
+    "explanation_seconds": 5.464131600001565,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "16915",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.54017019999992,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "13963",
+    "method": "mean",
+    "explanation_seconds": 0.7052923999999621,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "13963",
+    "method": "lama",
+    "explanation_seconds": 6.120337499998641,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "13963",
+    "method": "lama_expanded",
+    "explanation_seconds": 6.045830199998818,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "15513",
+    "method": "mean",
+    "explanation_seconds": 0.852955500000462,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "15513",
+    "method": "lama",
+    "explanation_seconds": 5.948554700000386,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "15513",
+    "method": "lama_expanded",
+    "explanation_seconds": 6.049282900001344,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "23981",
+    "method": "mean",
+    "explanation_seconds": 0.8339629000001878,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "23981",
+    "method": "lama",
+    "explanation_seconds": 5.880409299999883,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "23981",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.979342600001473,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "28737",
+    "method": "mean",
+    "explanation_seconds": 0.7753063999989536,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "28737",
+    "method": "lama",
+    "explanation_seconds": 5.228627099999358,
+    "peak_vram_bytes": 955073536
+  },
+  {
+    "image_id": "28737",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.554857699999047,
+    "peak_vram_bytes": 955073536
+  },
+  {
+    "image_id": "22241",
+    "method": "mean",
+    "explanation_seconds": 0.7732912999999826,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "22241",
+    "method": "lama",
+    "explanation_seconds": 5.619267899999613,
+    "peak_vram_bytes": 970551808
+  },
+  {
+    "image_id": "22241",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.8129360000002634,
+    "peak_vram_bytes": 970551808
+  },
+  {
+    "image_id": "20283",
+    "method": "mean",
+    "explanation_seconds": 0.6897208000009414,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "20283",
+    "method": "lama",
+    "explanation_seconds": 5.46007070000087,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "20283",
+    "method": "lama_expanded",
+    "explanation_seconds": 5.585058800001207,
+    "peak_vram_bytes": 961068032
+  },
+  {
+    "image_id": "2663",
+    "method": "mean",
+    "explanation_seconds": 0.9610394000010274,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "2663",
+    "method": "lama",
+    "explanation_seconds": 7.0453935000005,
+    "peak_vram_bytes": 1028179968
+  },
+  {
+    "image_id": "2663",
+    "method": "lama_expanded",
+    "explanation_seconds": 7.242652800001451,
+    "peak_vram_bytes": 1028179968
+  },
+  {
+    "image_id": "23593",
+    "method": "mean",
+    "explanation_seconds": 0.8557051999996474,
+    "peak_vram_bytes": 878043648
+  },
+  {
+    "image_id": "23593",
+    "method": "lama",
+    "explanation_seconds": 5.904515700000047,
+    "peak_vram_bytes": 977209344
+  },
+  {
+    "image_id": "23593",
+    "method": "lama_expanded",
+    "explanation_seconds": 6.03663349999988,
+    "peak_vram_bytes": 977209344
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "experiment": {
+    "model": "openai/clip-vit-base-patch16",
+    "seed": 42,
+    "n_coalitions": 128,
+    "slic": {
+      "n_segments": 16,
+      "compactness": 30,
+      "start_label": 0,
+      "channel_axis": -1,
+      "other_parameters": "Unmodified scikit-image 0.24.0 defaults"
+    },
+    "max_side": 512,
+    "batch_size": 16,
+    "allow_tf32": false,
+    "masking": "Original global RGB mean, rounded to uint8; no expansion",
+    "deletion": "Validated Experiment 1 Telea radius 3; strictly positive SHAP descending, ascending-index tie break",
+    "tail": "Constant preference to x=1 solely for integration; not an actual deletion state",
+    "unreached_threshold": "Missing; report coverage and common-case paired rates",
+    "all_masked_fallback": "Validated global RGB mean for Telea with no remaining context",
+    "runtime": "Shared inference separately from each regression",
+    "clip_commit": "57c216476eefef5ab752ec549e440a49ae4ae5f3",
+    "selection_seed": 2027,
+    "matched_evaluation": "All signed SHAP descending with ascending index ties; whole-region first crossing of 10/20/30/40/50 percent; normalized trapezoid to actual 50 crossing; no extrapolation",
+    "primary_endpoint": "MatchedArea-PDAUC-50",
+    "bootstrap": {
+      "resamples": 10000,
+      "seed": 42,
+      "unit": "unique image"
+    },
+    "dataset": "Separate SugarCrepe and Flickr30k B/16 replication arms",
+    "selection": "200 unique images per arm; uniform image permutation, one eligible instance per image, fixed reserves before outcomes",
+    "secondary_endpoint": "PositiveOnly-PDAUC",
+    "captions": "SugarCrepe dataset-defined pairs; Flickr30k B/16 highest GT and strongest other-image caption in full5000 pool",
+    "model_geometry": {
+      "input": 224,
+      "patch": 16,
+      "grid": [
+        14,
+        14
+      ],
+      "tokens": 197,
+      "SLIC_features_unchanged": true
+    }
+  },
+  "gamma": 100.0,
+  "stage": "full",
+  "selection_sha256": "8ab6428b128e96e9af5b9db0a9549cf6e58e73de00c84239a5ccc87794e4451a",
+  "source_hashes": {
+    "experiment7\\__init__.py": "38461e625fd0e99a1b980d667f13d68a5bb8962f4bf0959cc6831892dc0bd37a",
+    "experiment7\\core.py": "d339905005e28d645d516a7e3fd72355367e75a387bdb3fb55e3e70bfe73d474",
+    "experiment7\\model.py": "9309b2141f943482a6fe8d5a2913b3f4f2f9843422bcbb8a8388adf43d6f1314",
+    "experiment7\\pipeline.py": "fac894d424a3e949f8e257bf8d0d36010bbbfefe6819e79c61fd128c1a167a01",
+    "experiment7\\report.py": "1915836a0ffd90c5f88587f17fb1c19271d0983d442ea8338afef31eda5601a2",
+    "experiment7\\run.py": "e8d87c25ed2a97a8aea65b1a808136e3a11d3638fc54656ec4010e9d6f23026a",
+    "experiment7\\screen.py": "dd8d863856a1b9d4f1edd51a858a266ae5e21dc2c7bcdb1a19ba1a71bb67c4b7",
+    "experiment7\\verify.py": "10f6cb9d887e8323410bc57ab8024c31849967a80a552255de5c40524a8f94c0"
+  },
+  "arm": "flickr30k"
+}

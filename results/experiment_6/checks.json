@@ -1,0 +1,2996 @@
+{
+  "all_passed": true,
+  "n": 299,
+  "examples": [
+    {
+      "image_id": "411175971",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4953536921",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6278649113",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "566945636",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6848969863",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4434125934",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5519356488",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3243094580",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3884010975",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4418969015",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1675332284",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4789309483",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "16437914",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4351734575",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "42348693",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1404832008",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2924489177",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4525821347",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3155657768",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "8220955383",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2549933281",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4459992117",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3028145992",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3222702477",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4517838680",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3799701220",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2566294211",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2424250856",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "202174004",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6250527395",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "166283675",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1368082221",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4930533574",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2750185692",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4631909374",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2190227737",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3269841412",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4442323516",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2891943949",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4655102365",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3039200576",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2451114871",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4806000438",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1690926854",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "388837010",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4604969760",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6515331737",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2957682838",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "479807465",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1395410911",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2470493181",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4634848106",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "160792599",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2330536645",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3572346664",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2613889835",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4727540499",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "8052387530",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4683565867",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2993318965",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3446941415",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2975627633",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "10287332",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6337111139",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5986222648",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4675063973",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2115631346",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3660516586",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2088705195",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "511643051",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3364114507",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1659358141",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2205958052",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6489895665",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "562588230",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4871230195",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3350002347",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3671851846",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "273603643",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "384806138",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "314739483",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5510073103",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3050114829",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6474645169",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4475663002",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "139245992",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2367139509",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3928395936",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1801663973",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "319750026",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2537755800",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2661138991",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4814603619",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2468466969",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "97233789",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "317383917",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5501939468",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2686849571",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "483039719",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5229996710",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5060850038",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4756010841",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3285342629",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "185404966",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "900144365",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4795824646",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3128856481",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4773842539",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2658439322",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3391716619",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2558911884",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "378434971",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "394707439",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1749702972",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3974197857",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4830651041",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "7446693604",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "367400736",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5829317322",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4587060991",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3969232921",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2870426310",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4637947642",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1489286545",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6887015851",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6317293855",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3155400369",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2844641033",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4808471657",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4914029409",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "271396631",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4972129585",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "7900347098",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "86350713",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2268207503",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4494095559",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "400598822",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2872099696",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "14559446",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4817447781",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4813957025",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "7249763658",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3591283677",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3344531479",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "416992999",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "7194590496",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3665179773",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4846324908",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "102617084",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1255504166",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2346401538",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4800006797",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4752074240",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "464340358",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "374124237",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2729685399",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2773744784",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4709819574",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3815960082",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1916798494",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "246231741",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3514194772",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "502529086",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6439261679",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4562512283",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5829827359",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "7890007278",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "136693281",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1664475761",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3425756814",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4786476156",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "624080960",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "45543081",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "277119391",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3224375029",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3970114165",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2725508159",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "7037413229",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "164969525",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6502187283",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "616564448",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1287704027",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5244864049",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "133010954",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4337180031",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3773310720",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4796827555",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2165461920",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4469735380",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3780768589",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1313869424",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3256456935",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4752799475",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6224066807",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3339751521",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3514685438",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4735200580",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "7001949951",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4868221344",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "327142149",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2961247549",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3432637363",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3501083764",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "76485985",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "251586160",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "567903453",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3278581900",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "6956989138",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2421340833",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4077122969",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2447284966",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3712574653",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3263182360",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2506460104",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3348384389",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4587901777",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5365075444",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5995817000",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "111497985",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2433175169",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2751602672",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3335965982",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "475816542",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3532476966",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4549977232",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4756089627",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4043318461",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "480048562",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3232994074",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5787072819",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5745120660",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1313961775",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1351500610",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4150353377",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4758483073",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2830561413",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3903017514",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4257593776",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "450697885",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "7099368287",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1159381599",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2837640996",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5566972",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1253095131",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3927465948",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3246281818",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2833502675",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "97234558",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3368671163",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "155210731",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "861661418",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "16151663",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4688948552",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5163992452",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2321764238",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "231935782",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2778313163",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3638783842",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3421480658",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1459582913",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "322516292",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "514222285",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1463072715",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1082250005",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3612485097",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2422589651",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "226481576",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "1921102799",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4095309334",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3387661249",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3724738804",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "261627889",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4158826243",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3274879561",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "7329031116",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5350403659",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3512747808",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3286543624",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3688797852",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "5615068475",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "477204750",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "583865081",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3107059919",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4692834620",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4528578001",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4983587808",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3182490771",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3525403875",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3490867290",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3240570205",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4031513473",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2064792226",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "4539608494",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "3692072577",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2391094555",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "289583589",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "2378544134",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "85519095",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    },
+    {
+      "image_id": "8052397902",
+      "aligned": true,
+      "dimensions": true,
+      "valid_target": true,
+      "point_mass_conserved": true,
+      "point_eib_bounds": true,
+      "cr_mass_conserved": true,
+      "cr_eib_bounds": true
+    }
+  ]
+}

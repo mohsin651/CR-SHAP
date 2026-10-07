@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "n_instances": 100,
+  "n_shared_coalitions": 12800,
+  "n_figures": 15,
+  "max_abs_linearity_error": 1.491862189340054e-16,
+  "experiment1_files_unchanged": 1335,
+  "checks": [
+    "sample and CSV completeness",
+    "shared coalition matrices and mandatory subsets",
+    "bit-exact reconstructed masks and perturbed images",
+    "direct CR game and SHAP linearity",
+    "strict positive ranking and actual pixel areas",
+    "stable preference formula and AUC integration",
+    "missing unreached thresholds",
+    "deterministic 5/5/5 figure selection",
+    "Experiment 1 hashes"
+  ]
+}

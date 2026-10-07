@@ -1,0 +1,12 @@
+{
+  "classification": "VERY PROMISING",
+  "criteria": {
+    "relative_mean_improvement_at_least_5_percent": true,
+    "paired_p_below_0_05": true,
+    "positive_bootstrap_ci_excludes_zero": true,
+    "majority_cr_wins": true,
+    "improvement_in_at_least_three_categories": true
+  },
+  "all_criteria_met": true,
+  "caveat": "Internal exploratory criteria under approved positive-only deletion convention; not a publication guarantee."
+}

@@ -1,0 +1,8 @@
+{
+  "all_passed": true,
+  "n": 699,
+  "shared_coalitions_validated": 89472,
+  "max_abs_linearity_error": 1.9081958235744878e-16,
+  "protected_files_unchanged": 2026,
+  "scope": "Coalition hashes, endpoints, singleton/complements, Shapley linearity, positive/signed rankings, saved cumulative masks, first budget crossings, preference and AUC formulas; no new model inference."
+}

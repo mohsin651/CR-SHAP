@@ -1,0 +1,4 @@
+image_id,caption,mean_shap_deletion_auc,lama_shap_deletion_auc,lama_expanded_shap_deletion_auc
+19966,A woman wearing a black garment is holding a pen.,0.22936023967763497,0.2088036987692436,0.2058275785906459
+16318,Man in black jacket holding newspaper.,0.22059928921214736,0.21782121580199398,0.2223216267410119
+13418,A girl in pink socks jumping with her hands in the air.,0.21153821228417807,0.2097551760275564,0.22123878867527147

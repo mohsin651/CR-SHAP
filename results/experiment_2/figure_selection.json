@@ -1,0 +1,26 @@
+{
+  "rule": "Five largest positive differences, five closest to zero among remaining instances, five most negative differences; deterministic ID tie breaks.",
+  "groups": {
+    "largest_improvements": [
+      "swap_att:559",
+      "add_obj:129",
+      "replace_att:706",
+      "add_obj:354",
+      "add_obj:733"
+    ],
+    "closest_to_equal": [
+      "swap_obj:103",
+      "replace_obj:1376",
+      "replace_rel:163",
+      "swap_att:543",
+      "swap_obj:157"
+    ],
+    "largest_worsenings": [
+      "swap_att:454",
+      "replace_att:357",
+      "replace_att:532",
+      "swap_att:42",
+      "replace_obj:1365"
+    ]
+  }
+}

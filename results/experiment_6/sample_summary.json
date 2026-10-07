@@ -1,0 +1,12 @@
+{
+  "original_frozen_sample": 300,
+  "successfully_caption_matched": 300,
+  "grounding_evaluable": 299,
+  "excluded": 1,
+  "exclusion_reasons": {
+    "Matched caption has no usable explicit visual boxes": 1
+  },
+  "resized_examples": 0,
+  "nonidentity_exif_examples": 0,
+  "target_definition_frozen_before_attribution_scoring": true
+}

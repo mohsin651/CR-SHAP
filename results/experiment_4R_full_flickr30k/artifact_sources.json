@@ -1,0 +1,3967 @@
+[
+  {
+    "image_id": "411175971",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_000"
+  },
+  {
+    "image_id": "4953536921",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_001"
+  },
+  {
+    "image_id": "6278649113",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_002"
+  },
+  {
+    "image_id": "566945636",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_003"
+  },
+  {
+    "image_id": "6848969863",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_004"
+  },
+  {
+    "image_id": "4434125934",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_005"
+  },
+  {
+    "image_id": "5519356488",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_006"
+  },
+  {
+    "image_id": "3243094580",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_007"
+  },
+  {
+    "image_id": "3884010975",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_008"
+  },
+  {
+    "image_id": "4418969015",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_009"
+  },
+  {
+    "image_id": "1675332284",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_010"
+  },
+  {
+    "image_id": "4789309483",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_011"
+  },
+  {
+    "image_id": "16437914",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_012"
+  },
+  {
+    "image_id": "4351734575",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_013"
+  },
+  {
+    "image_id": "42348693",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_014"
+  },
+  {
+    "image_id": "1404832008",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_015"
+  },
+  {
+    "image_id": "2924489177",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_016"
+  },
+  {
+    "image_id": "1229536824",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_017"
+  },
+  {
+    "image_id": "4525821347",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_018"
+  },
+  {
+    "image_id": "3155657768",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_019"
+  },
+  {
+    "image_id": "8220955383",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_020"
+  },
+  {
+    "image_id": "2549933281",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_021"
+  },
+  {
+    "image_id": "4459992117",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_022"
+  },
+  {
+    "image_id": "3028145992",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_023"
+  },
+  {
+    "image_id": "3222702477",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_024"
+  },
+  {
+    "image_id": "4517838680",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_025"
+  },
+  {
+    "image_id": "3799701220",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_026"
+  },
+  {
+    "image_id": "2566294211",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_027"
+  },
+  {
+    "image_id": "2424250856",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_028"
+  },
+  {
+    "image_id": "202174004",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_029"
+  },
+  {
+    "image_id": "6250527395",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_030"
+  },
+  {
+    "image_id": "166283675",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_031"
+  },
+  {
+    "image_id": "1368082221",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_032"
+  },
+  {
+    "image_id": "4930533574",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_033"
+  },
+  {
+    "image_id": "2750185692",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_034"
+  },
+  {
+    "image_id": "4631909374",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_035"
+  },
+  {
+    "image_id": "2190227737",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_036"
+  },
+  {
+    "image_id": "3269841412",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_037"
+  },
+  {
+    "image_id": "4442323516",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_038"
+  },
+  {
+    "image_id": "2891943949",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_039"
+  },
+  {
+    "image_id": "4655102365",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_040"
+  },
+  {
+    "image_id": "3039200576",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_041"
+  },
+  {
+    "image_id": "2451114871",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_042"
+  },
+  {
+    "image_id": "4806000438",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_043"
+  },
+  {
+    "image_id": "1690926854",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_044"
+  },
+  {
+    "image_id": "388837010",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_045"
+  },
+  {
+    "image_id": "4604969760",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_046"
+  },
+  {
+    "image_id": "6515331737",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_047"
+  },
+  {
+    "image_id": "2957682838",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_048"
+  },
+  {
+    "image_id": "479807465",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_049"
+  },
+  {
+    "image_id": "1395410911",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_050"
+  },
+  {
+    "image_id": "2470493181",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_051"
+  },
+  {
+    "image_id": "4634848106",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_052"
+  },
+  {
+    "image_id": "160792599",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_053"
+  },
+  {
+    "image_id": "2330536645",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_054"
+  },
+  {
+    "image_id": "3572346664",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_055"
+  },
+  {
+    "image_id": "2613889835",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_056"
+  },
+  {
+    "image_id": "4727540499",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_057"
+  },
+  {
+    "image_id": "8052387530",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_058"
+  },
+  {
+    "image_id": "4683565867",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_059"
+  },
+  {
+    "image_id": "2993318965",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_060"
+  },
+  {
+    "image_id": "3446941415",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_061"
+  },
+  {
+    "image_id": "2975627633",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_062"
+  },
+  {
+    "image_id": "10287332",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_063"
+  },
+  {
+    "image_id": "6337111139",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_064"
+  },
+  {
+    "image_id": "5986222648",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_065"
+  },
+  {
+    "image_id": "4675063973",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_066"
+  },
+  {
+    "image_id": "2115631346",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_067"
+  },
+  {
+    "image_id": "3660516586",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_068"
+  },
+  {
+    "image_id": "2088705195",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_069"
+  },
+  {
+    "image_id": "511643051",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_070"
+  },
+  {
+    "image_id": "3364114507",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_071"
+  },
+  {
+    "image_id": "1659358141",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_072"
+  },
+  {
+    "image_id": "2205958052",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_073"
+  },
+  {
+    "image_id": "6489895665",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_074"
+  },
+  {
+    "image_id": "562588230",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_075"
+  },
+  {
+    "image_id": "4871230195",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_076"
+  },
+  {
+    "image_id": "3350002347",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_077"
+  },
+  {
+    "image_id": "3671851846",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_078"
+  },
+  {
+    "image_id": "273603643",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_079"
+  },
+  {
+    "image_id": "384806138",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_080"
+  },
+  {
+    "image_id": "314739483",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_081"
+  },
+  {
+    "image_id": "5510073103",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_082"
+  },
+  {
+    "image_id": "3050114829",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_083"
+  },
+  {
+    "image_id": "6474645169",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_084"
+  },
+  {
+    "image_id": "4475663002",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_085"
+  },
+  {
+    "image_id": "139245992",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_086"
+  },
+  {
+    "image_id": "2367139509",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_087"
+  },
+  {
+    "image_id": "3928395936",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_088"
+  },
+  {
+    "image_id": "1801663973",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_089"
+  },
+  {
+    "image_id": "319750026",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_090"
+  },
+  {
+    "image_id": "2537755800",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_091"
+  },
+  {
+    "image_id": "2661138991",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_092"
+  },
+  {
+    "image_id": "4814603619",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_093"
+  },
+  {
+    "image_id": "2468466969",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_094"
+  },
+  {
+    "image_id": "97233789",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_095"
+  },
+  {
+    "image_id": "317383917",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_096"
+  },
+  {
+    "image_id": "5501939468",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_097"
+  },
+  {
+    "image_id": "2686849571",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_098"
+  },
+  {
+    "image_id": "483039719",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_099"
+  },
+  {
+    "image_id": "5229996710",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_100"
+  },
+  {
+    "image_id": "5060850038",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_101"
+  },
+  {
+    "image_id": "4756010841",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_102"
+  },
+  {
+    "image_id": "3285342629",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_103"
+  },
+  {
+    "image_id": "185404966",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_104"
+  },
+  {
+    "image_id": "900144365",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_105"
+  },
+  {
+    "image_id": "4795824646",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_106"
+  },
+  {
+    "image_id": "3128856481",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_107"
+  },
+  {
+    "image_id": "4773842539",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_108"
+  },
+  {
+    "image_id": "2658439322",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_109"
+  },
+  {
+    "image_id": "3391716619",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_110"
+  },
+  {
+    "image_id": "2558911884",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_111"
+  },
+  {
+    "image_id": "378434971",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_112"
+  },
+  {
+    "image_id": "394707439",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_113"
+  },
+  {
+    "image_id": "1749702972",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_114"
+  },
+  {
+    "image_id": "3974197857",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_115"
+  },
+  {
+    "image_id": "4830651041",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_116"
+  },
+  {
+    "image_id": "7446693604",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_117"
+  },
+  {
+    "image_id": "367400736",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_118"
+  },
+  {
+    "image_id": "5829317322",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_119"
+  },
+  {
+    "image_id": "4587060991",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_120"
+  },
+  {
+    "image_id": "3969232921",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_121"
+  },
+  {
+    "image_id": "2870426310",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_122"
+  },
+  {
+    "image_id": "4637947642",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_123"
+  },
+  {
+    "image_id": "1489286545",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_124"
+  },
+  {
+    "image_id": "6887015851",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_125"
+  },
+  {
+    "image_id": "6317293855",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_126"
+  },
+  {
+    "image_id": "3155400369",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_127"
+  },
+  {
+    "image_id": "2844641033",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_128"
+  },
+  {
+    "image_id": "4808471657",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_129"
+  },
+  {
+    "image_id": "4914029409",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_130"
+  },
+  {
+    "image_id": "271396631",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_131"
+  },
+  {
+    "image_id": "4972129585",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_132"
+  },
+  {
+    "image_id": "7900347098",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_133"
+  },
+  {
+    "image_id": "86350713",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_134"
+  },
+  {
+    "image_id": "2268207503",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_135"
+  },
+  {
+    "image_id": "4494095559",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_136"
+  },
+  {
+    "image_id": "400598822",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_137"
+  },
+  {
+    "image_id": "2872099696",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_138"
+  },
+  {
+    "image_id": "14559446",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_139"
+  },
+  {
+    "image_id": "4817447781",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_140"
+  },
+  {
+    "image_id": "4813957025",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_141"
+  },
+  {
+    "image_id": "7249763658",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_142"
+  },
+  {
+    "image_id": "3591283677",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_143"
+  },
+  {
+    "image_id": "3344531479",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_144"
+  },
+  {
+    "image_id": "416992999",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_145"
+  },
+  {
+    "image_id": "7194590496",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_146"
+  },
+  {
+    "image_id": "3665179773",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_147"
+  },
+  {
+    "image_id": "4846324908",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_148"
+  },
+  {
+    "image_id": "102617084",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_149"
+  },
+  {
+    "image_id": "1255504166",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_150"
+  },
+  {
+    "image_id": "2346401538",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_151"
+  },
+  {
+    "image_id": "4800006797",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_152"
+  },
+  {
+    "image_id": "4752074240",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_153"
+  },
+  {
+    "image_id": "464340358",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_154"
+  },
+  {
+    "image_id": "374124237",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_155"
+  },
+  {
+    "image_id": "2729685399",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_156"
+  },
+  {
+    "image_id": "2773744784",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_157"
+  },
+  {
+    "image_id": "4709819574",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_158"
+  },
+  {
+    "image_id": "3815960082",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_159"
+  },
+  {
+    "image_id": "1916798494",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_160"
+  },
+  {
+    "image_id": "246231741",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_161"
+  },
+  {
+    "image_id": "3514194772",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_162"
+  },
+  {
+    "image_id": "502529086",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_163"
+  },
+  {
+    "image_id": "6439261679",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_164"
+  },
+  {
+    "image_id": "4562512283",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_165"
+  },
+  {
+    "image_id": "5829827359",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_166"
+  },
+  {
+    "image_id": "7890007278",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_167"
+  },
+  {
+    "image_id": "136693281",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_168"
+  },
+  {
+    "image_id": "1664475761",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_169"
+  },
+  {
+    "image_id": "3425756814",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_170"
+  },
+  {
+    "image_id": "4786476156",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_171"
+  },
+  {
+    "image_id": "624080960",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_172"
+  },
+  {
+    "image_id": "45543081",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_173"
+  },
+  {
+    "image_id": "277119391",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_174"
+  },
+  {
+    "image_id": "3224375029",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_175"
+  },
+  {
+    "image_id": "3970114165",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_176"
+  },
+  {
+    "image_id": "2725508159",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_177"
+  },
+  {
+    "image_id": "7037413229",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_178"
+  },
+  {
+    "image_id": "164969525",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_179"
+  },
+  {
+    "image_id": "6502187283",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_180"
+  },
+  {
+    "image_id": "616564448",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_181"
+  },
+  {
+    "image_id": "1287704027",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_182"
+  },
+  {
+    "image_id": "5244864049",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_183"
+  },
+  {
+    "image_id": "133010954",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_184"
+  },
+  {
+    "image_id": "4337180031",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_185"
+  },
+  {
+    "image_id": "3773310720",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_186"
+  },
+  {
+    "image_id": "4796827555",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_187"
+  },
+  {
+    "image_id": "2165461920",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_188"
+  },
+  {
+    "image_id": "4469735380",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_189"
+  },
+  {
+    "image_id": "3780768589",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_190"
+  },
+  {
+    "image_id": "1313869424",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_191"
+  },
+  {
+    "image_id": "3256456935",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_192"
+  },
+  {
+    "image_id": "4752799475",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_193"
+  },
+  {
+    "image_id": "6224066807",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_194"
+  },
+  {
+    "image_id": "3339751521",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_195"
+  },
+  {
+    "image_id": "3514685438",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_196"
+  },
+  {
+    "image_id": "4735200580",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_197"
+  },
+  {
+    "image_id": "7001949951",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_198"
+  },
+  {
+    "image_id": "4868221344",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_199"
+  },
+  {
+    "image_id": "327142149",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_200"
+  },
+  {
+    "image_id": "2961247549",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_201"
+  },
+  {
+    "image_id": "3432637363",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_202"
+  },
+  {
+    "image_id": "3501083764",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_203"
+  },
+  {
+    "image_id": "76485985",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_204"
+  },
+  {
+    "image_id": "251586160",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_205"
+  },
+  {
+    "image_id": "567903453",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_206"
+  },
+  {
+    "image_id": "3278581900",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_207"
+  },
+  {
+    "image_id": "6956989138",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_208"
+  },
+  {
+    "image_id": "2421340833",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_209"
+  },
+  {
+    "image_id": "4077122969",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_210"
+  },
+  {
+    "image_id": "2447284966",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_211"
+  },
+  {
+    "image_id": "3712574653",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_212"
+  },
+  {
+    "image_id": "3263182360",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_213"
+  },
+  {
+    "image_id": "2506460104",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_214"
+  },
+  {
+    "image_id": "3348384389",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_215"
+  },
+  {
+    "image_id": "4587901777",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_216"
+  },
+  {
+    "image_id": "5365075444",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_217"
+  },
+  {
+    "image_id": "5995817000",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_218"
+  },
+  {
+    "image_id": "111497985",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_219"
+  },
+  {
+    "image_id": "2433175169",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_220"
+  },
+  {
+    "image_id": "2751602672",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_221"
+  },
+  {
+    "image_id": "3335965982",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_222"
+  },
+  {
+    "image_id": "475816542",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_223"
+  },
+  {
+    "image_id": "3532476966",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_224"
+  },
+  {
+    "image_id": "4549977232",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_225"
+  },
+  {
+    "image_id": "4756089627",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_226"
+  },
+  {
+    "image_id": "4043318461",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_227"
+  },
+  {
+    "image_id": "480048562",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_228"
+  },
+  {
+    "image_id": "3232994074",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_229"
+  },
+  {
+    "image_id": "5787072819",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_230"
+  },
+  {
+    "image_id": "5745120660",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_231"
+  },
+  {
+    "image_id": "1313961775",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_232"
+  },
+  {
+    "image_id": "1351500610",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_233"
+  },
+  {
+    "image_id": "4150353377",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_234"
+  },
+  {
+    "image_id": "4758483073",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_235"
+  },
+  {
+    "image_id": "2830561413",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_236"
+  },
+  {
+    "image_id": "3903017514",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_237"
+  },
+  {
+    "image_id": "4257593776",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_238"
+  },
+  {
+    "image_id": "450697885",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_239"
+  },
+  {
+    "image_id": "7099368287",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_240"
+  },
+  {
+    "image_id": "1159381599",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_241"
+  },
+  {
+    "image_id": "2837640996",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_242"
+  },
+  {
+    "image_id": "5566972",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_243"
+  },
+  {
+    "image_id": "1253095131",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_244"
+  },
+  {
+    "image_id": "3927465948",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_245"
+  },
+  {
+    "image_id": "3246281818",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_246"
+  },
+  {
+    "image_id": "2833502675",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_247"
+  },
+  {
+    "image_id": "97234558",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_248"
+  },
+  {
+    "image_id": "3368671163",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_249"
+  },
+  {
+    "image_id": "155210731",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_250"
+  },
+  {
+    "image_id": "861661418",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_251"
+  },
+  {
+    "image_id": "16151663",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_252"
+  },
+  {
+    "image_id": "4688948552",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_253"
+  },
+  {
+    "image_id": "5163992452",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_254"
+  },
+  {
+    "image_id": "2321764238",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_255"
+  },
+  {
+    "image_id": "231935782",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_256"
+  },
+  {
+    "image_id": "2778313163",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_257"
+  },
+  {
+    "image_id": "3638783842",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_258"
+  },
+  {
+    "image_id": "3421480658",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_259"
+  },
+  {
+    "image_id": "1459582913",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_260"
+  },
+  {
+    "image_id": "322516292",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_261"
+  },
+  {
+    "image_id": "514222285",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_262"
+  },
+  {
+    "image_id": "1463072715",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_263"
+  },
+  {
+    "image_id": "1082250005",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_264"
+  },
+  {
+    "image_id": "3612485097",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_265"
+  },
+  {
+    "image_id": "2422589651",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_266"
+  },
+  {
+    "image_id": "226481576",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_267"
+  },
+  {
+    "image_id": "1921102799",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_268"
+  },
+  {
+    "image_id": "4095309334",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_269"
+  },
+  {
+    "image_id": "3387661249",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_270"
+  },
+  {
+    "image_id": "3724738804",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_271"
+  },
+  {
+    "image_id": "261627889",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_272"
+  },
+  {
+    "image_id": "4158826243",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_273"
+  },
+  {
+    "image_id": "3274879561",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_274"
+  },
+  {
+    "image_id": "7329031116",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_275"
+  },
+  {
+    "image_id": "5350403659",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_276"
+  },
+  {
+    "image_id": "3512747808",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_277"
+  },
+  {
+    "image_id": "3286543624",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_278"
+  },
+  {
+    "image_id": "3688797852",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_279"
+  },
+  {
+    "image_id": "5615068475",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_280"
+  },
+  {
+    "image_id": "477204750",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_281"
+  },
+  {
+    "image_id": "583865081",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_282"
+  },
+  {
+    "image_id": "3107059919",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_283"
+  },
+  {
+    "image_id": "4692834620",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_284"
+  },
+  {
+    "image_id": "4528578001",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_285"
+  },
+  {
+    "image_id": "4983587808",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_286"
+  },
+  {
+    "image_id": "3182490771",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_287"
+  },
+  {
+    "image_id": "3525403875",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_288"
+  },
+  {
+    "image_id": "3490867290",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_289"
+  },
+  {
+    "image_id": "3240570205",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_290"
+  },
+  {
+    "image_id": "4031513473",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_291"
+  },
+  {
+    "image_id": "2064792226",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_292"
+  },
+  {
+    "image_id": "4539608494",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_293"
+  },
+  {
+    "image_id": "3692072577",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_294"
+  },
+  {
+    "image_id": "2391094555",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_295"
+  },
+  {
+    "image_id": "289583589",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_296"
+  },
+  {
+    "image_id": "2378544134",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_297"
+  },
+  {
+    "image_id": "85519095",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_298"
+  },
+  {
+    "image_id": "8052397902",
+    "provenance": "reused-original300",
+    "artifact_directory": "results\\experiment_4\\example_299"
+  },
+  {
+    "image_id": "1007129816",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_000"
+  },
+  {
+    "image_id": "1009434119",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_001"
+  },
+  {
+    "image_id": "1039637574",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_002"
+  },
+  {
+    "image_id": "1043819504",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_003"
+  },
+  {
+    "image_id": "1043910339",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_004"
+  },
+  {
+    "image_id": "1044798682",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_005"
+  },
+  {
+    "image_id": "1089059626",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_006"
+  },
+  {
+    "image_id": "109260218",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_007"
+  },
+  {
+    "image_id": "109656696",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_008"
+  },
+  {
+    "image_id": "110671448",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_009"
+  },
+  {
+    "image_id": "1144865997",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_010"
+  },
+  {
+    "image_id": "1153704539",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_011"
+  },
+  {
+    "image_id": "1167908324",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_012"
+  },
+  {
+    "image_id": "1181708011",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_013"
+  },
+  {
+    "image_id": "118865844",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_014"
+  },
+  {
+    "image_id": "121178216",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_015"
+  },
+  {
+    "image_id": "12252043",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_016"
+  },
+  {
+    "image_id": "123314995",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_017"
+  },
+  {
+    "image_id": "1250181412",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_018"
+  },
+  {
+    "image_id": "1258913059",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_019"
+  },
+  {
+    "image_id": "1281282435",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_020"
+  },
+  {
+    "image_id": "1295476404",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_021"
+  },
+  {
+    "image_id": "130063845",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_022"
+  },
+  {
+    "image_id": "1332208215",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_023"
+  },
+  {
+    "image_id": "1333888922",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_024"
+  },
+  {
+    "image_id": "1341077576",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_025"
+  },
+  {
+    "image_id": "136581487",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_026"
+  },
+  {
+    "image_id": "1396064003",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_027"
+  },
+  {
+    "image_id": "1408554531",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_028"
+  },
+  {
+    "image_id": "14133592",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_029"
+  },
+  {
+    "image_id": "1414911626",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_030"
+  },
+  {
+    "image_id": "1417882092",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_031"
+  },
+  {
+    "image_id": "1433088025",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_032"
+  },
+  {
+    "image_id": "146906547",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_033"
+  },
+  {
+    "image_id": "150411291",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_034"
+  },
+  {
+    "image_id": "157910841",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_035"
+  },
+  {
+    "image_id": "1579198375",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_036"
+  },
+  {
+    "image_id": "1579206585",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_037"
+  },
+  {
+    "image_id": "1681253990",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_038"
+  },
+  {
+    "image_id": "17186135",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_039"
+  },
+  {
+    "image_id": "172092464",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_040"
+  },
+  {
+    "image_id": "175556963",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_041"
+  },
+  {
+    "image_id": "179828434",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_042"
+  },
+  {
+    "image_id": "180209719",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_043"
+  },
+  {
+    "image_id": "1809758121",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_044"
+  },
+  {
+    "image_id": "183647966",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_045"
+  },
+  {
+    "image_id": "18638572",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_046"
+  },
+  {
+    "image_id": "1874530310",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_047"
+  },
+  {
+    "image_id": "1881494074",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_048"
+  },
+  {
+    "image_id": "1957683077",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_049"
+  },
+  {
+    "image_id": "198534816",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_050"
+  },
+  {
+    "image_id": "202175131",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_051"
+  },
+  {
+    "image_id": "204150602",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_052"
+  },
+  {
+    "image_id": "2041867793",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_053"
+  },
+  {
+    "image_id": "2052202553",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_054"
+  },
+  {
+    "image_id": "2063399864",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_055"
+  },
+  {
+    "image_id": "2064046067",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_056"
+  },
+  {
+    "image_id": "2066271441",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_057"
+  },
+  {
+    "image_id": "2076906555",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_058"
+  },
+  {
+    "image_id": "21138719",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_059"
+  },
+  {
+    "image_id": "2119380659",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_060"
+  },
+  {
+    "image_id": "212396217",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_061"
+  },
+  {
+    "image_id": "2165724565",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_062"
+  },
+  {
+    "image_id": "2169788484",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_063"
+  },
+  {
+    "image_id": "217949158",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_064"
+  },
+  {
+    "image_id": "2180356743",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_065"
+  },
+  {
+    "image_id": "2208662604",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_066"
+  },
+  {
+    "image_id": "221421001",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_067"
+  },
+  {
+    "image_id": "2215837479",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_068"
+  },
+  {
+    "image_id": "221586389",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_069"
+  },
+  {
+    "image_id": "2255338013",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_070"
+  },
+  {
+    "image_id": "2255633616",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_071"
+  },
+  {
+    "image_id": "2259203920",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_072"
+  },
+  {
+    "image_id": "2275214054",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_073"
+  },
+  {
+    "image_id": "2282260240",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_074"
+  },
+  {
+    "image_id": "2283966256",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_075"
+  },
+  {
+    "image_id": "2289762817",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_076"
+  },
+  {
+    "image_id": "23018702",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_077"
+  },
+  {
+    "image_id": "230486268",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_078"
+  },
+  {
+    "image_id": "2313085243",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_079"
+  },
+  {
+    "image_id": "2330765551",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_080"
+  },
+  {
+    "image_id": "2330843604",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_081"
+  },
+  {
+    "image_id": "2332986053",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_082"
+  },
+  {
+    "image_id": "2338791560",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_083"
+  },
+  {
+    "image_id": "2342035754",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_084"
+  },
+  {
+    "image_id": "2352452459",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_085"
+  },
+  {
+    "image_id": "2368266191",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_086"
+  },
+  {
+    "image_id": "238177432",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_087"
+  },
+  {
+    "image_id": "2391269207",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_088"
+  },
+  {
+    "image_id": "2392625002",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_089"
+  },
+  {
+    "image_id": "2407470303",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_090"
+  },
+  {
+    "image_id": "2415587549",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_091"
+  },
+  {
+    "image_id": "2421367904",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_092"
+  },
+  {
+    "image_id": "2424620984",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_093"
+  },
+  {
+    "image_id": "2436398074",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_094"
+  },
+  {
+    "image_id": "244073535",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_095"
+  },
+  {
+    "image_id": "2441354291",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_096"
+  },
+  {
+    "image_id": "2441818017",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_097"
+  },
+  {
+    "image_id": "2445442929",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_098"
+  },
+  {
+    "image_id": "244910130",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_099"
+  },
+  {
+    "image_id": "245307666",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_100"
+  },
+  {
+    "image_id": "2470317702",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_101"
+  },
+  {
+    "image_id": "247618600",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_102"
+  },
+  {
+    "image_id": "247704641",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_103"
+  },
+  {
+    "image_id": "2484190118",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_104"
+  },
+  {
+    "image_id": "2511760873",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_105"
+  },
+  {
+    "image_id": "2511798599",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_106"
+  },
+  {
+    "image_id": "2536772737",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_107"
+  },
+  {
+    "image_id": "2553089098",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_108"
+  },
+  {
+    "image_id": "2572712647",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_109"
+  },
+  {
+    "image_id": "2582413611",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_110"
+  },
+  {
+    "image_id": "263104639",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_111"
+  },
+  {
+    "image_id": "2665461736",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_112"
+  },
+  {
+    "image_id": "2666111736",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_113"
+  },
+  {
+    "image_id": "2673209105",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_114"
+  },
+  {
+    "image_id": "2678668581",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_115"
+  },
+  {
+    "image_id": "2679382388",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_116"
+  },
+  {
+    "image_id": "2689001252",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_117"
+  },
+  {
+    "image_id": "270263570",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_118"
+  },
+  {
+    "image_id": "2710027673",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_119"
+  },
+  {
+    "image_id": "2722957422",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_120"
+  },
+  {
+    "image_id": "2724485630",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_121"
+  },
+  {
+    "image_id": "273699639",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_122"
+  },
+  {
+    "image_id": "2737609659",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_123"
+  },
+  {
+    "image_id": "2738077433",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_124"
+  },
+  {
+    "image_id": "2760716468",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_125"
+  },
+  {
+    "image_id": "2762599124",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_126"
+  },
+  {
+    "image_id": "2763465196",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_127"
+  },
+  {
+    "image_id": "2768933636",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_128"
+  },
+  {
+    "image_id": "2773474615",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_129"
+  },
+  {
+    "image_id": "2780179669",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_130"
+  },
+  {
+    "image_id": "2789350645",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_131"
+  },
+  {
+    "image_id": "280007961",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_132"
+  },
+  {
+    "image_id": "2812568040",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_133"
+  },
+  {
+    "image_id": "2816259113",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_134"
+  },
+  {
+    "image_id": "2838888385",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_135"
+  },
+  {
+    "image_id": "2847514745",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_136"
+  },
+  {
+    "image_id": "2860040276",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_137"
+  },
+  {
+    "image_id": "286084055",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_138"
+  },
+  {
+    "image_id": "2869439070",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_139"
+  },
+  {
+    "image_id": "2894634533",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_140"
+  },
+  {
+    "image_id": "289638061",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_141"
+  },
+  {
+    "image_id": "2900242501",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_142"
+  },
+  {
+    "image_id": "2900560501",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_143"
+  },
+  {
+    "image_id": "2902844125",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_144"
+  },
+  {
+    "image_id": "2904997007",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_145"
+  },
+  {
+    "image_id": "2923386532",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_146"
+  },
+  {
+    "image_id": "2925163942",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_147"
+  },
+  {
+    "image_id": "2926595608",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_148"
+  },
+  {
+    "image_id": "2933637854",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_149"
+  },
+  {
+    "image_id": "293575531",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_150"
+  },
+  {
+    "image_id": "2936693681",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_151"
+  },
+  {
+    "image_id": "2937461473",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_152"
+  },
+  {
+    "image_id": "2943557287",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_153"
+  },
+  {
+    "image_id": "2953861572",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_154"
+  },
+  {
+    "image_id": "2975845158",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_155"
+  },
+  {
+    "image_id": "2978409165",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_156"
+  },
+  {
+    "image_id": "299303069",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_157"
+  },
+  {
+    "image_id": "3005124440",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_158"
+  },
+  {
+    "image_id": "3006095077",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_159"
+  },
+  {
+    "image_id": "3009047603",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_160"
+  },
+  {
+    "image_id": "3016244153",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_161"
+  },
+  {
+    "image_id": "3021953768",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_162"
+  },
+  {
+    "image_id": "302289651",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_163"
+  },
+  {
+    "image_id": "3023339840",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_164"
+  },
+  {
+    "image_id": "3031792444",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_165"
+  },
+  {
+    "image_id": "3039095384",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_166"
+  },
+  {
+    "image_id": "3051972592",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_167"
+  },
+  {
+    "image_id": "3052436578",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_168"
+  },
+  {
+    "image_id": "3064443326",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_169"
+  },
+  {
+    "image_id": "3064716525",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_170"
+  },
+  {
+    "image_id": "3070836317",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_171"
+  },
+  {
+    "image_id": "3072673694",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_172"
+  },
+  {
+    "image_id": "3079340229",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_173"
+  },
+  {
+    "image_id": "3083847439",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_174"
+  },
+  {
+    "image_id": "3083913737",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_175"
+  },
+  {
+    "image_id": "3084001782",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_176"
+  },
+  {
+    "image_id": "3086526292",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_177"
+  },
+  {
+    "image_id": "3091786541",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_178"
+  },
+  {
+    "image_id": "3099091086",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_179"
+  },
+  {
+    "image_id": "3138504165",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_180"
+  },
+  {
+    "image_id": "3148193539",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_181"
+  },
+  {
+    "image_id": "3149894951",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_182"
+  },
+  {
+    "image_id": "3150380412",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_183"
+  },
+  {
+    "image_id": "3167453543",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_184"
+  },
+  {
+    "image_id": "3168354472",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_185"
+  },
+  {
+    "image_id": "3171020648",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_186"
+  },
+  {
+    "image_id": "3178300150",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_187"
+  },
+  {
+    "image_id": "319185571",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_188"
+  },
+  {
+    "image_id": "3192267612",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_189"
+  },
+  {
+    "image_id": "3206999917",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_190"
+  },
+  {
+    "image_id": "3223318401",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_191"
+  },
+  {
+    "image_id": "3227675485",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_192"
+  },
+  {
+    "image_id": "3231575742",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_193"
+  },
+  {
+    "image_id": "3243653344",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_194"
+  },
+  {
+    "image_id": "3257107194",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_195"
+  },
+  {
+    "image_id": "3259992164",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_196"
+  },
+  {
+    "image_id": "3277162496",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_197"
+  },
+  {
+    "image_id": "327955368",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_198"
+  },
+  {
+    "image_id": "3288174272",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_199"
+  },
+  {
+    "image_id": "3293751640",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_200"
+  },
+  {
+    "image_id": "3294830188",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_201"
+  },
+  {
+    "image_id": "330325191",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_202"
+  },
+  {
+    "image_id": "3324049172",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_203"
+  },
+  {
+    "image_id": "3332883133",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_204"
+  },
+  {
+    "image_id": "3341077091",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_205"
+  },
+  {
+    "image_id": "3350177228",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_206"
+  },
+  {
+    "image_id": "3373481779",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_207"
+  },
+  {
+    "image_id": "3400385314",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_208"
+  },
+  {
+    "image_id": "3405279045",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_209"
+  },
+  {
+    "image_id": "3432586199",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_210"
+  },
+  {
+    "image_id": "3443404125",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_211"
+  },
+  {
+    "image_id": "3456488632",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_212"
+  },
+  {
+    "image_id": "3473534758",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_213"
+  },
+  {
+    "image_id": "3500218173",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_214"
+  },
+  {
+    "image_id": "3527184455",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_215"
+  },
+  {
+    "image_id": "3530687486",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_216"
+  },
+  {
+    "image_id": "3532598048",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_217"
+  },
+  {
+    "image_id": "354017707",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_218"
+  },
+  {
+    "image_id": "3541205002",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_219"
+  },
+  {
+    "image_id": "3543294190",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_220"
+  },
+  {
+    "image_id": "35437191",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_221"
+  },
+  {
+    "image_id": "3554391279",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_222"
+  },
+  {
+    "image_id": "3560125106",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_223"
+  },
+  {
+    "image_id": "3563617591",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_224"
+  },
+  {
+    "image_id": "3564489441",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_225"
+  },
+  {
+    "image_id": "3565598162",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_226"
+  },
+  {
+    "image_id": "3587449716",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_227"
+  },
+  {
+    "image_id": "3589267801",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_228"
+  },
+  {
+    "image_id": "3597007663",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_229"
+  },
+  {
+    "image_id": "3599392711",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_230"
+  },
+  {
+    "image_id": "3600229533",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_231"
+  },
+  {
+    "image_id": "3601491447",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_232"
+  },
+  {
+    "image_id": "3613264553",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_233"
+  },
+  {
+    "image_id": "3618908551",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_234"
+  },
+  {
+    "image_id": "363709975",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_235"
+  },
+  {
+    "image_id": "3642604708",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_236"
+  },
+  {
+    "image_id": "3643021980",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_237"
+  },
+  {
+    "image_id": "3646927481",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_238"
+  },
+  {
+    "image_id": "3687062281",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_239"
+  },
+  {
+    "image_id": "3690358949",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_240"
+  },
+  {
+    "image_id": "3694555931",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_241"
+  },
+  {
+    "image_id": "3700739661",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_242"
+  },
+  {
+    "image_id": "3715669736",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_243"
+  },
+  {
+    "image_id": "3716244806",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_244"
+  },
+  {
+    "image_id": "3721102409",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_245"
+  },
+  {
+    "image_id": "3722006169",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_246"
+  },
+  {
+    "image_id": "3739742770",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_247"
+  },
+  {
+    "image_id": "378969774",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_248"
+  },
+  {
+    "image_id": "3790208395",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_249"
+  },
+  {
+    "image_id": "3799847884",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_250"
+  },
+  {
+    "image_id": "3826425403",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_251"
+  },
+  {
+    "image_id": "3827298104",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_252"
+  },
+  {
+    "image_id": "3827317206",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_253"
+  },
+  {
+    "image_id": "38541144",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_254"
+  },
+  {
+    "image_id": "3858873745",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_255"
+  },
+  {
+    "image_id": "3867804763",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_256"
+  },
+  {
+    "image_id": "3913884179",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_257"
+  },
+  {
+    "image_id": "3914087743",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_258"
+  },
+  {
+    "image_id": "3930187102",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_259"
+  },
+  {
+    "image_id": "39341489",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_260"
+  },
+  {
+    "image_id": "3938498023",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_261"
+  },
+  {
+    "image_id": "395125320",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_262"
+  },
+  {
+    "image_id": "396360611",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_263"
+  },
+  {
+    "image_id": "3966071063",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_264"
+  },
+  {
+    "image_id": "3996949550",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_265"
+  },
+  {
+    "image_id": "3999247601",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_266"
+  },
+  {
+    "image_id": "4035354150",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_267"
+  },
+  {
+    "image_id": "4039846249",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_268"
+  },
+  {
+    "image_id": "4046112444",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_269"
+  },
+  {
+    "image_id": "4062550863",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_270"
+  },
+  {
+    "image_id": "407815946",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_271"
+  },
+  {
+    "image_id": "4089335666",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_272"
+  },
+  {
+    "image_id": "4089787993",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_273"
+  },
+  {
+    "image_id": "409327234",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_274"
+  },
+  {
+    "image_id": "4093460759",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_275"
+  },
+  {
+    "image_id": "4103236953",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_276"
+  },
+  {
+    "image_id": "4139974800",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_277"
+  },
+  {
+    "image_id": "4146886427",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_278"
+  },
+  {
+    "image_id": "4148908583",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_279"
+  },
+  {
+    "image_id": "4153147942",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_280"
+  },
+  {
+    "image_id": "4180952377",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_281"
+  },
+  {
+    "image_id": "4200930361",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_282"
+  },
+  {
+    "image_id": "4202061400",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_283"
+  },
+  {
+    "image_id": "4256162530",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_284"
+  },
+  {
+    "image_id": "4282819676",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_285"
+  },
+  {
+    "image_id": "428485639",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_286"
+  },
+  {
+    "image_id": "4284980126",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_287"
+  },
+  {
+    "image_id": "428979011",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_288"
+  },
+  {
+    "image_id": "430173345",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_289"
+  },
+  {
+    "image_id": "4308077016",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_290"
+  },
+  {
+    "image_id": "435054077",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_291"
+  },
+  {
+    "image_id": "4359872414",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_292"
+  },
+  {
+    "image_id": "4373983146",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_293"
+  },
+  {
+    "image_id": "441817653",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_294"
+  },
+  {
+    "image_id": "4420174290",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_295"
+  },
+  {
+    "image_id": "4427860005",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_296"
+  },
+  {
+    "image_id": "4434578571",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_297"
+  },
+  {
+    "image_id": "4439439741",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_298"
+  },
+  {
+    "image_id": "4443087396",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_299"
+  },
+  {
+    "image_id": "4448853264",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_300"
+  },
+  {
+    "image_id": "4450153946",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_301"
+  },
+  {
+    "image_id": "4460747081",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_302"
+  },
+  {
+    "image_id": "4463538995",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_303"
+  },
+  {
+    "image_id": "4464247181",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_304"
+  },
+  {
+    "image_id": "4479738973",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_305"
+  },
+  {
+    "image_id": "4481348193",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_306"
+  },
+  {
+    "image_id": "4483766693",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_307"
+  },
+  {
+    "image_id": "4489839598",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_308"
+  },
+  {
+    "image_id": "449236667",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_309"
+  },
+  {
+    "image_id": "4495033915",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_310"
+  },
+  {
+    "image_id": "4507759934",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_311"
+  },
+  {
+    "image_id": "4510809964",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_312"
+  },
+  {
+    "image_id": "4516267602",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_313"
+  },
+  {
+    "image_id": "4517193541",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_314"
+  },
+  {
+    "image_id": "4520820052",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_315"
+  },
+  {
+    "image_id": "4523132391",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_316"
+  },
+  {
+    "image_id": "4525077213",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_317"
+  },
+  {
+    "image_id": "4541692312",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_318"
+  },
+  {
+    "image_id": "4546499100",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_319"
+  },
+  {
+    "image_id": "4560420776",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_320"
+  },
+  {
+    "image_id": "4563143284",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_321"
+  },
+  {
+    "image_id": "4567311889",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_322"
+  },
+  {
+    "image_id": "4567455846",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_323"
+  },
+  {
+    "image_id": "4587837067",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_324"
+  },
+  {
+    "image_id": "4592269543",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_325"
+  },
+  {
+    "image_id": "4610973875",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_326"
+  },
+  {
+    "image_id": "4613268345",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_327"
+  },
+  {
+    "image_id": "4615770260",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_328"
+  },
+  {
+    "image_id": "4620293662",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_329"
+  },
+  {
+    "image_id": "462879289",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_330"
+  },
+  {
+    "image_id": "4630824427",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_331"
+  },
+  {
+    "image_id": "463551598",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_332"
+  },
+  {
+    "image_id": "4637951374",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_333"
+  },
+  {
+    "image_id": "4650623132",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_334"
+  },
+  {
+    "image_id": "4653258614",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_335"
+  },
+  {
+    "image_id": "4654284177",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_336"
+  },
+  {
+    "image_id": "4664359066",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_337"
+  },
+  {
+    "image_id": "4665413015",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_338"
+  },
+  {
+    "image_id": "4679111230",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_339"
+  },
+  {
+    "image_id": "4687557453",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_340"
+  },
+  {
+    "image_id": "4688197510",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_341"
+  },
+  {
+    "image_id": "4689169924",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_342"
+  },
+  {
+    "image_id": "4691655601",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_343"
+  },
+  {
+    "image_id": "4696109052",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_344"
+  },
+  {
+    "image_id": "4700788144",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_345"
+  },
+  {
+    "image_id": "4703377742",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_346"
+  },
+  {
+    "image_id": "4707189762",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_347"
+  },
+  {
+    "image_id": "4717627685",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_348"
+  },
+  {
+    "image_id": "4729526023",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_349"
+  },
+  {
+    "image_id": "4733026480",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_350"
+  },
+  {
+    "image_id": "4736841029",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_351"
+  },
+  {
+    "image_id": "4739632460",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_352"
+  },
+  {
+    "image_id": "4742299638",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_353"
+  },
+  {
+    "image_id": "474581065",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_354"
+  },
+  {
+    "image_id": "4751250311",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_355"
+  },
+  {
+    "image_id": "47529535",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_356"
+  },
+  {
+    "image_id": "4759256692",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_357"
+  },
+  {
+    "image_id": "4762011238",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_358"
+  },
+  {
+    "image_id": "4762194732",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_359"
+  },
+  {
+    "image_id": "4780620826",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_360"
+  },
+  {
+    "image_id": "4787038693",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_361"
+  },
+  {
+    "image_id": "4788967636",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_362"
+  },
+  {
+    "image_id": "4798986110",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_363"
+  },
+  {
+    "image_id": "4805078127",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_364"
+  },
+  {
+    "image_id": "4812991208",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_365"
+  },
+  {
+    "image_id": "4814332291",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_366"
+  },
+  {
+    "image_id": "4814335297",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_367"
+  },
+  {
+    "image_id": "4814933116",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_368"
+  },
+  {
+    "image_id": "481632457",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_369"
+  },
+  {
+    "image_id": "4818429638",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_370"
+  },
+  {
+    "image_id": "4821487527",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_371"
+  },
+  {
+    "image_id": "4826547083",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_372"
+  },
+  {
+    "image_id": "4845544942",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_373"
+  },
+  {
+    "image_id": "4854547386",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_374"
+  },
+  {
+    "image_id": "4858175898",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_375"
+  },
+  {
+    "image_id": "4859764297",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_376"
+  },
+  {
+    "image_id": "4860086271",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_377"
+  },
+  {
+    "image_id": "4862041366",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_378"
+  },
+  {
+    "image_id": "4862204000",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_379"
+  },
+  {
+    "image_id": "4869914617",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_380"
+  },
+  {
+    "image_id": "4882632874",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_381"
+  },
+  {
+    "image_id": "4889181219",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_382"
+  },
+  {
+    "image_id": "4890769146",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_383"
+  },
+  {
+    "image_id": "489865145",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_384"
+  },
+  {
+    "image_id": "4899074189",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_385"
+  },
+  {
+    "image_id": "4906688033",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_386"
+  },
+  {
+    "image_id": "4910374312",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_387"
+  },
+  {
+    "image_id": "4911020894",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_388"
+  },
+  {
+    "image_id": "4914732942",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_389"
+  },
+  {
+    "image_id": "4915716087",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_390"
+  },
+  {
+    "image_id": "4926882194",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_391"
+  },
+  {
+    "image_id": "4928592495",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_392"
+  },
+  {
+    "image_id": "4931239366",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_393"
+  },
+  {
+    "image_id": "4931839897",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_394"
+  },
+  {
+    "image_id": "4948635454",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_395"
+  },
+  {
+    "image_id": "4952694407",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_396"
+  },
+  {
+    "image_id": "4954827712",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_397"
+  },
+  {
+    "image_id": "4980430291",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_398"
+  },
+  {
+    "image_id": "499340051",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_399"
+  },
+  {
+    "image_id": "5026046208",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_400"
+  },
+  {
+    "image_id": "508793006",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_401"
+  },
+  {
+    "image_id": "509123893",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_402"
+  },
+  {
+    "image_id": "5094295894",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_403"
+  },
+  {
+    "image_id": "5103930077",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_404"
+  },
+  {
+    "image_id": "5122705505",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_405"
+  },
+  {
+    "image_id": "5126446040",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_406"
+  },
+  {
+    "image_id": "5169300296",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_407"
+  },
+  {
+    "image_id": "5222104909",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_408"
+  },
+  {
+    "image_id": "5225675783",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_409"
+  },
+  {
+    "image_id": "5238681042",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_410"
+  },
+  {
+    "image_id": "5246144625",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_411"
+  },
+  {
+    "image_id": "530507000",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_412"
+  },
+  {
+    "image_id": "5323049335",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_413"
+  },
+  {
+    "image_id": "532396029",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_414"
+  },
+  {
+    "image_id": "533508800",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_415"
+  },
+  {
+    "image_id": "5345473274",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_416"
+  },
+  {
+    "image_id": "5369771639",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_417"
+  },
+  {
+    "image_id": "538271607",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_418"
+  },
+  {
+    "image_id": "538825260",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_419"
+  },
+  {
+    "image_id": "539676201",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_420"
+  },
+  {
+    "image_id": "54817316",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_421"
+  },
+  {
+    "image_id": "5489602545",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_422"
+  },
+  {
+    "image_id": "5498941021",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_423"
+  },
+  {
+    "image_id": "5506399373",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_424"
+  },
+  {
+    "image_id": "5522182662",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_425"
+  },
+  {
+    "image_id": "5584269779",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_426"
+  },
+  {
+    "image_id": "5622966650",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_427"
+  },
+  {
+    "image_id": "5646792433",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_428"
+  },
+  {
+    "image_id": "5747873823",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_429"
+  },
+  {
+    "image_id": "5791274887",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_430"
+  },
+  {
+    "image_id": "581630745",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_431"
+  },
+  {
+    "image_id": "5823310445",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_432"
+  },
+  {
+    "image_id": "58579865",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_433"
+  },
+  {
+    "image_id": "5931115247",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_434"
+  },
+  {
+    "image_id": "5984974054",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_435"
+  },
+  {
+    "image_id": "6041486114",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_436"
+  },
+  {
+    "image_id": "6056788662",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_437"
+  },
+  {
+    "image_id": "6099093979",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_438"
+  },
+  {
+    "image_id": "6147735412",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_439"
+  },
+  {
+    "image_id": "6312211170",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_440"
+  },
+  {
+    "image_id": "6320815265",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_441"
+  },
+  {
+    "image_id": "6338542128",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_442"
+  },
+  {
+    "image_id": "6453399365",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_443"
+  },
+  {
+    "image_id": "6486182665",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_444"
+  },
+  {
+    "image_id": "6503917545",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_445"
+  },
+  {
+    "image_id": "6556870225",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_446"
+  },
+  {
+    "image_id": "6563291133",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_447"
+  },
+  {
+    "image_id": "6589292543",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_448"
+  },
+  {
+    "image_id": "6693936663",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_449"
+  },
+  {
+    "image_id": "6699112713",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_450"
+  },
+  {
+    "image_id": "6775387932",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_451"
+  },
+  {
+    "image_id": "6818129694",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_452"
+  },
+  {
+    "image_id": "6853360659",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_453"
+  },
+  {
+    "image_id": "6897514777",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_454"
+  },
+  {
+    "image_id": "6917718093",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_455"
+  },
+  {
+    "image_id": "6918264972",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_456"
+  },
+  {
+    "image_id": "6927762908",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_457"
+  },
+  {
+    "image_id": "697490420",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_458"
+  },
+  {
+    "image_id": "6978881720",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_459"
+  },
+  {
+    "image_id": "6999596517",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_460"
+  },
+  {
+    "image_id": "7003919692",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_461"
+  },
+  {
+    "image_id": "702083815",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_462"
+  },
+  {
+    "image_id": "7052724381",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_463"
+  },
+  {
+    "image_id": "7072093125",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_464"
+  },
+  {
+    "image_id": "7131011211",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_465"
+  },
+  {
+    "image_id": "7151070637",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_466"
+  },
+  {
+    "image_id": "7187734520",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_467"
+  },
+  {
+    "image_id": "72008434",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_468"
+  },
+  {
+    "image_id": "7292785488",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_469"
+  },
+  {
+    "image_id": "7308070356",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_470"
+  },
+  {
+    "image_id": "7330749240",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_471"
+  },
+  {
+    "image_id": "7348289414",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_472"
+  },
+  {
+    "image_id": "7393977570",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_473"
+  },
+  {
+    "image_id": "7438195398",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_474"
+  },
+  {
+    "image_id": "7468663062",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_475"
+  },
+  {
+    "image_id": "7544009146",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_476"
+  },
+  {
+    "image_id": "756521713",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_477"
+  },
+  {
+    "image_id": "7567712136",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_478"
+  },
+  {
+    "image_id": "766061382",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_479"
+  },
+  {
+    "image_id": "7670346004",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_480"
+  },
+  {
+    "image_id": "771048251",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_481"
+  },
+  {
+    "image_id": "7738684358",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_482"
+  },
+  {
+    "image_id": "77587237",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_483"
+  },
+  {
+    "image_id": "7764093618",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_484"
+  },
+  {
+    "image_id": "7988586396",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_485"
+  },
+  {
+    "image_id": "8016751611",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_486"
+  },
+  {
+    "image_id": "8132535710",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_487"
+  },
+  {
+    "image_id": "8234387593",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_488"
+  },
+  {
+    "image_id": "83292701",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_489"
+  },
+  {
+    "image_id": "862560775",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_490"
+  },
+  {
+    "image_id": "86256551",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_491"
+  },
+  {
+    "image_id": "94024624",
+    "provenance": "newly-computed",
+    "artifact_directory": "results\\experiment_4R_full_flickr30k\\new_full\\example_492"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "new_shared_coalition_inference_seconds": 648.6499893999771,
+  "new_point_regression_seconds": 0.1460416999689187,
+  "new_cr_regression_seconds": 0.06731159999799274,
+  "new_evaluation_seconds": 908.3200472999997,
+  "reused_original_queries": 300,
+  "new_evaluated_queries": 493
+}

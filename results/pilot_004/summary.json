@@ -1,0 +1,83 @@
+{
+  "n_images": 3,
+  "methods": {
+    "mean": {
+      "mean_auc": 0.22049924705798682,
+      "median_auc": 0.22059928921214736
+    },
+    "lama": {
+      "mean_auc": 0.21212669686626465,
+      "median_auc": 0.2097551760275564
+    },
+    "lama_expanded": {
+      "mean_auc": 0.21646266466897643,
+      "median_auc": 0.22123878867527147
+    }
+  },
+  "paired_differences": {
+    "mean_minus_lama": {
+      "values": [
+        0.020556540908391374,
+        0.0027780734101533755,
+        0.001783036256621684
+      ],
+      "mean": 0.008372550191722145,
+      "median": 0.0027780734101533755,
+      "wins_for_second": 3,
+      "ties": 0
+    },
+    "mean_minus_lama_expanded": {
+      "values": [
+        0.023532661086989065,
+        -0.0017223375288645537,
+        -0.009700576391093396
+      ],
+      "mean": 0.004036582389010372,
+      "median": -0.0017223375288645537,
+      "wins_for_second": 1,
+      "ties": 0
+    },
+    "lama_minus_lama_expanded": {
+      "values": [
+        0.002976120178597691,
+        -0.004500410939017929,
+        -0.01148361264771508
+      ],
+      "mean": -0.0043359678027117725,
+      "median": -0.004500410939017929,
+      "wins_for_second": 1,
+      "ties": 0
+    }
+  },
+  "wilcoxon": {
+    "mean_minus_lama": {
+      "statistic": 0.0,
+      "pvalue": 0.25,
+      "alternative": "two-sided",
+      "zero_method": "wilcox",
+      "multiple_testing_correction": null
+    },
+    "mean_minus_lama_expanded": {
+      "statistic": 3.0,
+      "pvalue": 1.0,
+      "alternative": "two-sided",
+      "zero_method": "wilcox",
+      "multiple_testing_correction": null
+    }
+  },
+  "interpretation": "Exploratory; qualitative review required. Positive paired differences favor the second method.",
+  "timing": {
+    "mean": {
+      "total_explanation_seconds": 2.2207311000020127,
+      "mean_explanation_seconds": 0.7402437000006709
+    },
+    "lama": {
+      "total_explanation_seconds": 15.809872100000575,
+      "mean_explanation_seconds": 5.269957366666858
+    },
+    "lama_expanded": {
+      "total_explanation_seconds": 15.493778100000782,
+      "mean_explanation_seconds": 5.16459270000026
+    }
+  }
+}

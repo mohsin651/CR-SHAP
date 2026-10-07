@@ -1,0 +1,11 @@
+{
+  "authorized_by": "User requested fixing and running after the proposed one-instance technical exclusion",
+  "excluded_example_id": "swap_att:39",
+  "reason": "Six fixed SLIC regions permit only 64 distinct coalitions; frozen sampler requires 128 unique coalitions",
+  "original_sample_size": 700,
+  "amended_sample_size": 699,
+  "replacement": false,
+  "method_settings_changed": false,
+  "original_selection_sha256": "06b9930dcd6eb8849c81470d74da63c1326038acad3e5fc6ca669f89db68816e",
+  "disclosure": "Amendment after 55 ordered instances had been evaluated; exclusion based only on coalition feasibility, not attribution outcomes."
+}

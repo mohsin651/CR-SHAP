@@ -1,0 +1,5 @@
+{
+  "source": "results\\experiment_3_stopped_001",
+  "n": 55,
+  "reason": "Identical frozen configuration and same selected-instance prefix; original saved artifacts already independently verified"
+}

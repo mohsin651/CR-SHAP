@@ -1,0 +1,13 @@
+{
+  "decision": "NOT PROMISING in this exploratory run",
+  "h1": "Not supported; approximately 1 percent mean improvement without significant paired evidence.",
+  "h2": "Not supported; expansion worsened mean and median AUC.",
+  "relative_mean_auc_improvement": {
+    "lama": 0.010083134551524249,
+    "lama_expanded": -0.009111977331037196
+  },
+  "qualitative_observation": "LaMa reduces some flat-fill artifacts but can reconstruct or distort partially masked objects.",
+  "valid_run": "full_002",
+  "reviewed_pilot": "pilot_004",
+  "scope": "30 matched Flickr30k pairs; one seed; raw cosine pixel-area positive-only deletion with constant tail. No further datasets or methods added."
+}

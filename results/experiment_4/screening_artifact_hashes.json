@@ -1,0 +1,17 @@
+{
+  "captions.json": "8b71c464cc8fc9b3b1ce2f310154b1020ef455c715bb3af9fb7cfb28a5cf8b5d",
+  "images.json": "e10404529bb18f41141094adb68a205205e4eeeb004d9274a8393d39c7d9589b",
+  "image_embeddings.npy": "94367da02f280213eaa7ad47f3ac8f36f0923c6b941a9508f4e2ec7307927ae2",
+  "initial_selected_images.json": "4a4ff66ecc35f25df037344988e7e16efeb60dcd21c06f06d54077910a783c7b",
+  "protected_experiments.json": "37915e27ff95a155c8df26115bd226e3e89186e32fcb70bb1877c05035f81de8",
+  "rows.json": "ba1288ccd5c02ac0f81cebbc718147e5642cc07f51decc511d637c816a928b87",
+  "screening.csv": "b3c70b5185e4d84de3e17dc8604047b2bf33770fc8b69113392355260dedd1f6",
+  "screening_summary.json": "476c55dbebcddb2257c1cbd4ee9043196e1c546450f8a882a29213cc7b8380d0",
+  "seeded_sample_and_reserve.json": "e76107badaeaf20ac1d677b6c4a984d23e99b808a421226e0307a994820634dd",
+  "segmentation_preflight.json": "2bcb3d72f81c91a6dea9796ddcf63036e95eeb12f7ba939dbe6499a1b08c2c67",
+  "selected_images.json": "4a4ff66ecc35f25df037344988e7e16efeb60dcd21c06f06d54077910a783c7b",
+  "selection_report.json": "9a423e853a8f202a8ed2f0fa39a2352c9958993a1fd7da22944b2f36629aa675",
+  "similarities.npy": "806913f8f80c066976966d0162d14f904269291d610c63022c3b4d6b9eb5811f",
+  "technical_exclusions.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "text_embeddings.npy": "d0e2dc3353d2ac3a2350f2a6eb614ff92867457522c0a460818c45aaada888d8"
+}

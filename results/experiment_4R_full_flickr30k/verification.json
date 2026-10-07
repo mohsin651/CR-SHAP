@@ -1,0 +1,13 @@
+{
+  "all_passed": true,
+  "intended": 793,
+  "evaluable": 793,
+  "reused_exact": 300,
+  "new_evaluable": 493,
+  "technical_failures": 0,
+  "eligible_id_set_sha256": "c4bbdc80282a0ffef053a403c62b7c7812dab59f112dc4f4db49bb53ef22b751",
+  "protected_files_unchanged": 16659,
+  "original_summary_exact": true,
+  "no_new_retrieval": true,
+  "no_original300_inference": true
+}

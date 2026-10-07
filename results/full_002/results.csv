@@ -1,0 +1,31 @@
+image_id,caption,mean_shap_deletion_auc,lama_shap_deletion_auc,lama_expanded_shap_deletion_auc
+19966,A woman wearing a black garment is holding a pen.,0.22936023967763497,0.2088036987692436,0.2058275785906459
+16318,Man in black jacket holding newspaper.,0.22059928921214736,0.21782121580199398,0.2223216267410119
+13418,A girl in pink socks jumping with her hands in the air.,0.21153821228417807,0.2097551760275564,0.22123878867527147
+26607,Three young ladies in yellow uniform are taking a break at a small table.,0.23990779093671055,0.24226813799649408,0.24352398250707596
+2765,A group of small children read off of a list.,0.17755746975997547,0.17634828569885488,0.1831722962577511
+2918,A young boy sleeps in his car seat.,0.2850032320651213,0.30707428742265697,0.29927561504928274
+5660,A woman wearing a black top standing in front of and holding a microphone.,0.2244727136629025,0.20526170315917333,0.2209168735975027
+25515,A boy doing a flip on the grass.,0.25030945291385814,0.2516402699097141,0.2608738559137683
+24367,A man uses a camera to capture a scenic landscape on the countryside.,0.3155707768865199,0.2853997343801052,0.2824702003563204
+21612,A person in a helmet is doing tricks on their bike after jumping off of a ramp.,0.21156063211187942,0.20215580961416968,0.19424360788374156
+3971,A person ridding a white horse with reflective clothing on.,0.24035813207153478,0.23717471344049773,0.26438051742664975
+6244,Black and white dog leaping for Frisbee.,0.18833850077696643,0.21608536793347202,0.22223602280525367
+30240,"Vendors at an Asian outdoor market, selling giant mushrooms under red umbrellas.",0.2655263571505433,0.2991084237856604,0.2868994814773679
+15910,A man and woman laughing while they hold an award.,0.21094246299338343,0.22089520816775166,0.2241875845063925
+26034,"Five people are sitting in a long boat, smiling as they float down a river.",0.27461967818959143,0.2560714788659704,0.2586979229740166
+24235,A thin brunette woman lounges while reading on a rooftop overlooking a cityscape.,0.23110339885344605,0.22727792944686392,0.26673789107355245
+11496,"A person, wearing an orange coat, is looking in the backseat of their SUV on a sunny day.",0.19170295442186477,0.2124720687974032,0.1933616770115204
+22806,People gathered on a busy Asian street and a policeman in blue looking off shot.,0.23951979146674052,0.2430545838922262,0.23989062510077303
+12479,A man wearing a white shirt and red and black shorts is running on the sidewalk.,0.2986669446796576,0.24178807336815195,0.25984902246586483
+13599,A young girl clings to a fence and watches the horse on the other side.,0.2693435441495148,0.2861039982542931,0.29114560177975785
+13752,The boy is in the air with a machine with wheels.,0.2255987203404486,0.22030031577252343,0.22109368504351842
+16915,A woman cooking in a big pan outside.,0.25794430290729164,0.23916469354584008,0.24317215809935405
+13963,The dog ran across the beach.,0.2432379931323131,0.24894572465109827,0.256346601886789
+15513,Two men in dress shirts and holding drinks are standing next to a guy in a pale blue sweater over a blue dress shirt.,0.23199198676339783,0.21396991176935037,0.21220644767034055
+23981,Some asian people are looking at some products.,0.22126711806678773,0.2239814061493079,0.21985954590634504
+28737,Two men are competing in a horse race.,0.24174055862917232,0.23142229160895353,0.2385491172704951
+22241,A group dressed in white stares out a window.,0.2400218987483945,0.25061217267467745,0.25680794919017286
+20283,A young girl rearing a purple jacket with white polka dots sweeps up leaves.,0.23126758621517401,0.2347039539710799,0.25670842421210527
+2663,A man is pushing a three wheeled cart down a sidewalk with a piece of art on top.,0.275955789506644,0.2569841209109426,0.2731547810455858
+23593,Two men in black shirts are taking photographs.,0.22777398439677557,0.23383243441788357,0.21901043523856

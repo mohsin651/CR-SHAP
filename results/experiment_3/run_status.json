@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "completed_instances": 699,
+  "technical_exclusions": 1,
+  "excluded_example_id": "swap_att:39",
+  "method_settings_changed": false,
+  "all_validation_passed": true,
+  "earlier_experiment_files_unchanged": true
+}

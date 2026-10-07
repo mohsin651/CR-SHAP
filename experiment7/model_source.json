@@ -1,0 +1,5 @@
+{
+  "model": "openai/clip-vit-base-patch16",
+  "revision": "57c216476eefef5ab752ec549e440a49ae4ae5f3",
+  "source": "https://huggingface.co/api/models/openai/clip-vit-base-patch16"
+}

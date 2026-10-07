@@ -1,0 +1,87 @@
+{
+  "seed": 2026,
+  "target_per_category": 100,
+  "categories": {
+    "add_att": {
+      "eligible_before_exclusion": 480,
+      "excluded_experiment2": 14,
+      "available_new_instances": 466,
+      "available_new_images": 366,
+      "selected": 100,
+      "shortage": 0,
+      "selected_unique_images": 100
+    },
+    "add_obj": {
+      "eligible_before_exclusion": 1586,
+      "excluded_experiment2": 14,
+      "available_new_instances": 1572,
+      "available_new_images": 823,
+      "selected": 100,
+      "shortage": 0,
+      "selected_unique_images": 100
+    },
+    "replace_att": {
+      "eligible_before_exclusion": 631,
+      "excluded_experiment2": 15,
+      "available_new_instances": 616,
+      "available_new_images": 440,
+      "selected": 100,
+      "shortage": 0,
+      "selected_unique_images": 100
+    },
+    "replace_obj": {
+      "eligible_before_exclusion": 1497,
+      "excluded_experiment2": 15,
+      "available_new_instances": 1482,
+      "available_new_images": 777,
+      "selected": 100,
+      "shortage": 0,
+      "selected_unique_images": 100
+    },
+    "replace_rel": {
+      "eligible_before_exclusion": 975,
+      "excluded_experiment2": 14,
+      "available_new_instances": 961,
+      "available_new_images": 617,
+      "selected": 100,
+      "shortage": 0,
+      "selected_unique_images": 100
+    },
+    "swap_att": {
+      "eligible_before_exclusion": 427,
+      "excluded_experiment2": 14,
+      "available_new_instances": 413,
+      "available_new_images": 385,
+      "selected": 99,
+      "shortage": 1,
+      "selected_unique_images": 99,
+      "shortage_reason": "Authorized technical exclusion, not a shortage of eligible benchmark instances"
+    },
+    "swap_obj": {
+      "eligible_before_exclusion": 149,
+      "excluded_experiment2": 14,
+      "available_new_instances": 135,
+      "available_new_images": 128,
+      "selected": 100,
+      "shortage": 0,
+      "selected_unique_images": 100
+    }
+  },
+  "excluded_experiment2_instances": 100,
+  "n": 699,
+  "unique_images": 596,
+  "images_repeated": 94,
+  "maximum_instances_per_image": 3,
+  "rule": "Uniform unique-image sampling within each category, then uniform instance within image; fill remaining slots from unused instances only if fewer than target images.",
+  "protocol_amendment": {
+    "authorized_by": "User requested fixing and running after the proposed one-instance technical exclusion",
+    "excluded_example_id": "swap_att:39",
+    "reason": "Six fixed SLIC regions permit only 64 distinct coalitions; frozen sampler requires 128 unique coalitions",
+    "original_sample_size": 700,
+    "amended_sample_size": 699,
+    "replacement": false,
+    "method_settings_changed": false,
+    "original_selection_sha256": "06b9930dcd6eb8849c81470d74da63c1326038acad3e5fc6ca669f89db68816e",
+    "disclosure": "Amendment after 55 ordered instances had been evaluated; exclusion based only on coalition feasibility, not attribution outcomes."
+  }
+}

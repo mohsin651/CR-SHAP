@@ -1,0 +1,41 @@
+{
+  "experiment": {
+    "clip_model": "openai/clip-vit-base-patch32",
+    "clip_commit": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+    "gradeclip_commit": "e370e6cb194faf2020f5d1ed268f9d57e91a38e6",
+    "variant": "Paper Appendix C multi-head variant preserving original model; notebook cosine spatial weights on concatenated Q/K channels",
+    "target_layer": "Final visual transformer block (index 11 of 12); CLS attention context before output projection",
+    "heads": 12,
+    "patch_grid": [
+      7,
+      7
+    ],
+    "channel_weights": "Gradient of raw cosine target with respect to CLS pre-projection attention context",
+    "spatial_weights": "Min-max-normalized cosine of unscaled CLS query and patch keys, using concatenated channels as in official notebook",
+    "map": "ReLU(sum_channels(gradient_cls * patch_value * spatial_weight)); no per-map normalization for evaluation",
+    "pixel_projection": "7x7 to 224x224 bilinear; inverse actual processor center crop then inverse resize; zero unseen pixels",
+    "slic_aggregation": "Mean relevance over every working-image pixel in each saved Experiment4 SLIC region",
+    "primary_endpoint": "MatchedArea-PDAUC-50",
+    "secondary_endpoint": "PositiveOnly-PDAUC on native nonnegative ReLU support",
+    "evaluator": "Unmodified Experiment3 matched_deletion and Experiment2 preference_deletion; Telea radius3, original-image cumulative masks, whole-region first crossing, gamma from original frozen model",
+    "bootstrap": {
+      "draws": 10000,
+      "seed": 42
+    },
+    "seed": 42,
+    "sample": "Exact 300 Experiment4 images and captions; no resampling or replacement",
+    "model_updates": "None; no optimizer; all parameters frozen; autograd.grad on last-block activations only"
+  },
+  "stage": "full",
+  "source_hashes": {
+    "experiment5\\__init__.py": "3731ddf29a38ecfe2b6b1d7ed5d435374289aa5993ddd1acb7e8aef0a9299a3f",
+    "experiment5\\core.py": "c02f9ac437d732ed3f9f20fb7305e0dc6246054b5fccd6b5b29f7487d37406ba",
+    "experiment5\\model.py": "b90ea3b06a854d6f51f39bf240671ba6896367e58cd80633a4b2d37611ff42a4",
+    "experiment5\\report.py": "3f66eb83cfeee4b475d5c2f8698588e5bc6ad7f333bb1dfbc40f54f340a21910",
+    "experiment5\\run.py": "b4bf3459605a94eeb735ffa90911f46570d0c4cb7a9aeed40827e39472995258",
+    "experiment5\\verify.py": "27b0d1044c7e6b1846d10a313c142d0a911ab7c1c16372b072855524e5042e39"
+  },
+  "selection_sha256": "4a4ff66ecc35f25df037344988e7e16efeb60dcd21c06f06d54077910a783c7b",
+  "shap_results_sha256": "134ef707455de8f2a6c0c03789d41866db0f0c49075cad4cd011c74b3b125074",
+  "official_notebook_sha256": "3ad5f48d3db1537d36d4b2f3e5fe8067a824e78494380053da6a1f57ad8a2cdd"
+}

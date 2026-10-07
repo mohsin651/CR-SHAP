@@ -1,0 +1,35 @@
+{
+  "experiment": {
+    "annotation_repo": "https://github.com/BryanPlummer/flickr30k_entities",
+    "annotation_commit": "68b3d6f12d1d710f96233f6bd2b6de799d6f4e5b",
+    "sample": "Exact300 frozen Experiment4 image/caption instances; annotation-only exclusions; no replacement",
+    "caption_match": "Original Karpathy caption ID -> sentence index; exact lexical/punctuation tokens after HTML unescape and Unicode casefold; punctuation whitespace ignored; no fuzzy matching",
+    "target": "Union of all explicit valid T+-linked visual boxes; duplicate boxes deduplicated, overlaps counted once; all boxes per phrase retained; notvisual/id0 and phrases without explicit boxes contribute no region",
+    "coordinates": "XML and official parser zero-based inclusive endpoints -> half-open pixel edges; clip to raw image; EXIF transform; exact working/raw oriented dimension ratios; no CLIP crop applied to GT",
+    "raster": "Pixel centers in continuous half-open boxes; ceil(edge-.5) bounds, clipped to working dimensions",
+    "spatial_attribution": "max(phi_region,0)/region_pixel_count per pixel; preserves each positive region contribution and total SHAP mass; same map for Pointing Game and EIB",
+    "pointing": "Highest positive density region; lowest region index for tied density; pixel nearest region centroid, row-major y/x for equal distances",
+    "zero_energy": "Included as Pointing failure and EIB=0, numerator=denominator=0; explicitly flagged",
+    "primary": "Pointing Game",
+    "secondary": "EIB",
+    "area": "Contextual positive area only, not localization quality",
+    "bootstrap": {
+      "resamples": 10000,
+      "seed": 42
+    },
+    "differences": "CR minus Pointwise throughout; lower positive area is contextual",
+    "no_inference": "Reuse original SHAP/SLIC; no CLIP calls, deletion reruns, training, tuning, Grad-ECLIP or subsequent experiments"
+  },
+  "source_hashes": {
+    "experiment6\\__init__.py": "04e77df561e5fd3d16dcc77bcb8bf1fada39edd566d9fb7333df42271c1bc3a1",
+    "experiment6\\core.py": "e700026663cd7a63a81f145dee326f6f2c7182fe153e5256f8bc28764c3a8c9a",
+    "experiment6\\prepare.py": "6bba660f84ee0cb6b74636b837dfe6594606b5a933246858db96041e12f27e27",
+    "experiment6\\report.py": "b480793e66b151d2e6a329f8c4e8207d08f73dfe663f87db24ef9ebc15444a25",
+    "experiment6\\run.py": "6871cb34797ff7555079f1f8b5022c90c3d35a4b5db34ba8df2a67e7c7d57fb5",
+    "experiment6\\verify.py": "ced25e2eb1a383d3107de8f7bbf0558497312ebc87a29c528c8bb951b47eb1b7"
+  },
+  "frozen_before_outcomes": true,
+  "selected_images_sha256": "4a4ff66ecc35f25df037344988e7e16efeb60dcd21c06f06d54077910a783c7b",
+  "annotation_archive_sha256": "1bdde439e41fa936e31e6d72898f1886d49bb4298f2abcdb50771de4f516b026",
+  "official_parser_sha256": "a1047cc96725b20b716a39bd0693fa0e966f7a7d508f914e2cba1e44123de9df"
+}

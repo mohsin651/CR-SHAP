@@ -1,0 +1,122 @@
+{
+  "arm": "flickr30k",
+  "model": "openai/clip-vit-base-patch16",
+  "clip_commit": "57c216476eefef5ab752ec549e440a49ae4ae5f3",
+  "gamma": 100.0,
+  "screened": 1000,
+  "unique_images_screened": 1000,
+  "correctly_ranked": 824,
+  "incorrect": 176,
+  "ties": 0,
+  "distributions": {
+    "original_positive_cosine": {
+      "mean": 0.3455515315234661,
+      "median": 0.34454889595508575,
+      "standard_deviation": 0.028779687124212618,
+      "minimum": 0.26278066635131836,
+      "maximum": 0.453587144613266,
+      "std_ddof": 0
+    },
+    "original_negative_cosine": {
+      "mean": 0.3181284826993942,
+      "median": 0.3173607438802719,
+      "standard_deviation": 0.022562095365287547,
+      "minimum": 0.2444477081298828,
+      "maximum": 0.4017956256866455,
+      "std_ddof": 0
+    },
+    "original_margin": {
+      "mean": 0.027423048824071886,
+      "median": 0.024288266897201538,
+      "standard_deviation": 0.03025317386803163,
+      "minimum": -0.05431187152862549,
+      "maximum": 0.13920345902442932,
+      "std_ddof": 0
+    }
+  },
+  "retrieval": {
+    "image_to_text": {
+      "R@1": 0.824,
+      "R@5": 0.967,
+      "R@10": 0.99
+    },
+    "text_to_image": {
+      "R@1": 0.622,
+      "R@5": 0.8558,
+      "R@10": 0.9194
+    },
+    "ties": "Stable ordering by saved image/caption index; strict positive margin required for explanation eligibility."
+  },
+  "screening_runtime_seconds": 14.92107279999982,
+  "model_geometry": {
+    "processor_crop": {
+      "height": 224,
+      "width": 224
+    },
+    "input_size": 224,
+    "patch_size": 16,
+    "patch_grid": [
+      14,
+      14
+    ],
+    "tokens_including_cls": 197
+  },
+  "model_sha256_before": "d66edca2c4cb7efd1a36c949c36cd742c5d3abbac7014aadfa62f2bed8274495",
+  "model_sha256_after": "d66edca2c4cb7efd1a36c949c36cd742c5d3abbac7014aadfa62f2bed8274495",
+  "device": "cuda",
+  "packages": {
+    "certifi": "2026.7.22",
+    "charset-normalizer": "3.5.2",
+    "colorama": "0.4.6",
+    "contourpy": "1.3.3",
+    "cycler": "0.12.1",
+    "filelock": "4.0.11",
+    "fonttools": "4.66.1",
+    "fsspec": "2026.9.0",
+    "huggingface_hub": "0.36.2",
+    "idna": "3.20",
+    "ImageIO": "2.38.0",
+    "iniconfig": "2.3.0",
+    "Jinja2": "3.1.6",
+    "kiwisolver": "1.5.1",
+    "lazy-loader": "0.6",
+    "MarkupSafe": "3.0.4",
+    "matplotlib": "3.9.2",
+    "mpmath": "1.3.0",
+    "networkx": "3.6.1",
+    "numpy": "1.26.4",
+    "opencv-python": "4.10.0.84",
+    "packaging": "26.3",
+    "pillow": "10.4.0",
+    "pluggy": "1.6.0",
+    "pyparsing": "3.3.3",
+    "pytest": "8.3.3",
+    "python-dateutil": "2.9.0.post0",
+    "PyYAML": "6.0.3",
+    "regex": "2026.9.29",
+    "requests": "2.34.2",
+    "safetensors": "0.8.0",
+    "scikit-image": "0.24.0",
+    "scipy": "1.14.1",
+    "setuptools": "78.1.0",
+    "six": "1.17.0",
+    "sympy": "1.14.0",
+    "tifffile": "2026.3.3",
+    "tokenizers": "0.20.3",
+    "torch": "2.11.0+cu128",
+    "tqdm": "4.70.1",
+    "transformers": "4.46.3",
+    "typing_extensions": "4.16.0",
+    "urllib3": "2.8.0"
+  },
+  "dataset_source_sha256": "ce0e67aa2feea70935d204d42fc955d86ea6c6b9c89ca446c406ce1d899e73cd",
+  "backbone_overlap": {
+    "all1000_same_positive_fraction": 0.57,
+    "all1000_same_negative_fraction": 0.256,
+    "all1000_both_same_fraction": 0.148,
+    "both_correct": 726,
+    "b16_only_correct": 98,
+    "b32_only_correct": 67,
+    "neither_correct": 109
+  }
+}

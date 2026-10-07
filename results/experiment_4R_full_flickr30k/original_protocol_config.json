@@ -1,0 +1,49 @@
+{
+  "experiment": {
+    "model": "openai/clip-vit-base-patch32",
+    "seed": 42,
+    "n_coalitions": 128,
+    "slic": {
+      "n_segments": 16,
+      "compactness": 30,
+      "start_label": 0,
+      "channel_axis": -1,
+      "other_parameters": "Unmodified scikit-image 0.24.0 defaults"
+    },
+    "max_side": 512,
+    "batch_size": 16,
+    "allow_tf32": false,
+    "masking": "Original global RGB mean, rounded to uint8; no expansion",
+    "deletion": "Validated Experiment 1 Telea radius 3; strictly positive SHAP descending, ascending-index tie break",
+    "tail": "Constant preference to x=1 solely for integration; not an actual deletion state",
+    "unreached_threshold": "Missing; report coverage and common-case paired rates",
+    "all_masked_fallback": "Validated global RGB mean for Telea with no remaining context",
+    "runtime": "Shared inference separately from each regression",
+    "clip_commit": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+    "selection_seed": 2026,
+    "matched_evaluation": "All signed SHAP descending with ascending index ties; whole-region first crossing of 10/20/30/40/50 percent; normalized trapezoid to actual 50 crossing; no extrapolation",
+    "primary_endpoint": "MatchedArea-PDAUC-50",
+    "bootstrap": {
+      "resamples": 10000,
+      "seed": 42,
+      "unit": "unique query image"
+    },
+    "dataset": "Flickr30k original Karpathy TEST, 1000 images / 5000 captions",
+    "selection": "300 unique correctly ranked images; uniform permutation seed 2026; feasibility replacement before outcomes",
+    "secondary_endpoint": "PositiveOnly-PDAUC",
+    "captions": "Highest-scoring ground-truth and highest-scoring other-image caption in the full 5000-caption pool",
+    "tie_break": "Saved caption order for retrieval; ascending SLIC index for SHAP ranking"
+  },
+  "gamma": 100.0,
+  "stage": "full",
+  "selection_sha256": "4a4ff66ecc35f25df037344988e7e16efeb60dcd21c06f06d54077910a783c7b",
+  "source_hashes": {
+    "experiment4\\__init__.py": "ad6c486347812cf1ec50eb409ca910ac94ffe8e58b6b0dd84f909d755769df29",
+    "experiment4\\core.py": "259126c4f1b827482aff5efd0a37bb288938571206cbdab8a2af638fbebf5353",
+    "experiment4\\data.py": "826975e5a6a96fca7a3d969dcebf7034fca0cbedfde7125cb1e1b2560d6e5675",
+    "experiment4\\report.py": "50f514d366cc538f42e885594576c08f2a5720e3c44e433ed3ee89159257f984",
+    "experiment4\\run.py": "eaadca561c8a8d0f009c7230f86d0b4ed6be8743264fe1bcb109829821a8e125",
+    "experiment4\\screen.py": "4ec0f52fd6fc5b00c426584dd13a346f84b36ca229391cbb6d329e24be2cdf13",
+    "experiment4\\verify.py": "aa5c2ede13c9fdb0cb42b0f428c1d162d4b7574701a5b3ca0d4d4d37bf24cfb2"
+  }
+}

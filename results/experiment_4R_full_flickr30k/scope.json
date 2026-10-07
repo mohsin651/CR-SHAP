@@ -1,0 +1,10 @@
+{
+  "original_eligible_intended": 793,
+  "original_reused": 300,
+  "new_intended": 493,
+  "eligible_id_set_sha256": "c4bbdc80282a0ffef053a403c62b7c7812dab59f112dc4f4db49bb53ef22b751",
+  "hash_encoding": "SHA256 of UTF8 JSON of lexicographically sorted image IDs, separators comma/colon",
+  "full_analysis_order": "Original300 in unchanged original order, followed by new493 in lexicographic image-ID order",
+  "design": "Post-specified finite eligible-test-population robustness; not the original sampled Experiment4",
+  "interpretation_frozen_before_new_outcomes": "Report exact full versus original effect difference. Similar positive magnitudes support descriptive representativeness; smaller positive effects mean original overestimation; uncertain/nonpositive effects weaken or reverse original interpretation. No thresholds tuned to outcomes and no equivalence claims."
+}

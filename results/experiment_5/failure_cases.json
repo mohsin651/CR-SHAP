@@ -1,0 +1,38 @@
+{
+  "zero_relu_maps": {
+    "grad_point": [],
+    "grad_cr": []
+  },
+  "largest_gradient_worsenings": [
+    {
+      "image_id": "416992999",
+      "difference": -0.5484397928553676,
+      "positive_caption": "A girl wearing glasses is in a blue harness while rock climbing.",
+      "negative_caption": "A boy in blue shorts and a white shirt begins repelling down a rock."
+    },
+    {
+      "image_id": "3039200576",
+      "difference": -0.44697719993328167,
+      "positive_caption": "A girl in white and a girl in green walk past a blue car wash station.",
+      "negative_caption": "Two woman, one in red and the other in blue, race each other on rollerblades."
+    },
+    {
+      "image_id": "2870426310",
+      "difference": -0.30480739089637443,
+      "positive_caption": "Three little children in a grassy yard running towards the camera.",
+      "negative_caption": "4 kids playing, one in a red dress one in a pink shirt, one in a white shirt and a little boy with his arm through a green toy."
+    },
+    {
+      "image_id": "4773842539",
+      "difference": -0.28666020270115733,
+      "positive_caption": "A woman is standing and talking to a group of children.",
+      "negative_caption": "A boy wearing shorts, crocs, and a white shirt plays with a yo-yo while another boy looks at his yo-yo in the background."
+    },
+    {
+      "image_id": "4830651041",
+      "difference": -0.2748445015431895,
+      "positive_caption": "Two female soldiers standing in a crowd.",
+      "negative_caption": "A group of Asian students in their uniforms."
+    }
+  ]
+}

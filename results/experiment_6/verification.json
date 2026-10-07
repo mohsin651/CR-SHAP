@@ -1,0 +1,6 @@
+{
+  "all_passed": true,
+  "n": 299,
+  "protected_files_unchanged": 11860,
+  "scope": "Unchanged reused SHAP/SLIC, GT union raster, mass-conserving density, continuous-box pointing, independent region-overlap energy, area and paired statistics; no model inference."
+}

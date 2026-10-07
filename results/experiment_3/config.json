@@ -1,0 +1,35 @@
+{
+  "experiment": {
+    "model": "openai/clip-vit-base-patch32",
+    "seed": 42,
+    "n_coalitions": 128,
+    "slic": {
+      "n_segments": 16,
+      "compactness": 30,
+      "start_label": 0,
+      "channel_axis": -1,
+      "other_parameters": "Unmodified scikit-image 0.24.0 defaults"
+    },
+    "max_side": 512,
+    "batch_size": 16,
+    "allow_tf32": false,
+    "masking": "Original global RGB mean, rounded to uint8; no expansion",
+    "deletion": "Validated Experiment 1 Telea radius 3; strictly positive SHAP descending, ascending-index tie break",
+    "tail": "Constant preference to x=1 solely for integration; not an actual deletion state",
+    "unreached_threshold": "Missing; report coverage and common-case paired rates",
+    "all_masked_fallback": "Validated global RGB mean for Telea with no remaining context",
+    "runtime": "Shared inference separately from each regression",
+    "clip_commit": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+    "selection_seed": 2026,
+    "matched_evaluation": "All signed SHAP descending with ascending index ties; whole-region first crossing of 10/20/30/40/50 percent; normalized trapezoid to actual 50 crossing; no extrapolation",
+    "primary_endpoint": "Positive-only PDAUC, unchanged Experiment 2 definition",
+    "bootstrap": {
+      "resamples": 10000,
+      "seed": 42,
+      "cluster": "image_id"
+    }
+  },
+  "selection_sha256": "2e6f44440f3ed8f448d7c47750ae548a8e5f7ce54110c5f57596da7f12ebe41a",
+  "stage": "full",
+  "gamma": 100.0
+}

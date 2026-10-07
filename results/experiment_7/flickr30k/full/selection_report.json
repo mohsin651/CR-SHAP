@@ -1,0 +1,12 @@
+{
+  "seed": 2027,
+  "n": 200,
+  "unique_images": 200,
+  "eligible_instances": 824,
+  "eligible_unique_images": 824,
+  "technical_exclusions": 0,
+  "rule": "Uniform seeded permutation of eligible unique images; one uniformly selected eligible instance per image; predetermined reserves before technical preflight and outcomes. SugarCrepe is not category-balanced.",
+  "categories": {
+    "retrieval": 0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sugarcrepe": {
+    "screening_seconds": 38.006850899999336,
+    "shared_coalition_inference_seconds": 369.21854449999955,
+    "point_regression_seconds": 0.06384179999986372,
+    "cr_regression_seconds": 0.028445100000681123,
+    "shared_evaluation_seconds": 400.4833631000056
+  },
+  "flickr30k": {
+    "screening_seconds": 14.92107279999982,
+    "shared_coalition_inference_seconds": 346.4512893000192,
+    "point_regression_seconds": 0.054622099985863315,
+    "cr_regression_seconds": 0.02269259999775386,
+    "shared_evaluation_seconds": 326.9114066000093
+  }
+}

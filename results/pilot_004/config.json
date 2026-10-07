@@ -1,0 +1,31 @@
+{
+  "experiment": {
+    "seed": 42,
+    "n_segments": 16,
+    "n_coalitions": 128,
+    "dilation_radius": 3,
+    "slic_compactness": 30,
+    "telea_radius": 3,
+    "model": "openai/clip-vit-base-patch32",
+    "max_side": 512,
+    "batch_size": 16,
+    "allow_tf32": false,
+    "lama_jit_optimization": false,
+    "auc": "raw cosine, pixel-area x axis, constant tail to 1 after positive-only deletion",
+    "all_masked_telea": "global RGB mean fallback",
+    "coalition_sampling": "mandatory endpoints/singletons/complements; uniform unique remainder"
+  },
+  "manifest_sha256": "7b8c5fc0e6fc774f37d6b6f0c9ef5d640cb4459c228d57b079f9bd99ce38d6cc",
+  "stage": "pilot",
+  "device": "cuda",
+  "arguments": {
+    "manifest": "data/flickr30k/pairs.csv",
+    "output": "results/pilot_004",
+    "stage": "pilot",
+    "reviewed_pilot": null,
+    "device": "auto",
+    "lama_weights": null,
+    "batch_size": 16,
+    "max_side": 512
+  }
+}

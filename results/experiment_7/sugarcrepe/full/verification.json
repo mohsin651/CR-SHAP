@@ -1,0 +1,10 @@
+{
+  "all_passed": true,
+  "n": 200,
+  "screening_instances_validated": 7511,
+  "screening_captions_validated": 11844,
+  "shared_coalitions_validated": 25600,
+  "max_abs_linearity_error": 1.6653345369377348e-16,
+  "protected_files_unchanged": 13710,
+  "scope": "Full retrieval winners/recall, frozen reserve selection, coalition pixel hashes and shared embeddings, regressions, signed/positive rankings, masks, budget crossings, formulas and statistics. No new model inference."
+}

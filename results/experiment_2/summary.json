@@ -1,0 +1,753 @@
+{
+  "overall": {
+    "n": 100,
+    "pointwise_mean_pdauc": 0.5953577037177424,
+    "pointwise_median_pdauc": 0.6072960419924619,
+    "cr_shap_mean_pdauc": 0.5487039500632406,
+    "cr_shap_median_pdauc": 0.5520897974065229,
+    "mean_paired_difference": 0.04665375365450181,
+    "median_paired_difference": 0.038533196072497666,
+    "relative_mean_improvement_percent": 7.836255979081147,
+    "cr_shap_wins": 71,
+    "pointwise_wins": 29,
+    "ties": 0,
+    "rankflip": {
+      "25": {
+        "pointwise": {
+          "n_reached": 100,
+          "n_unreached": 0,
+          "n_flipped": 27,
+          "percent_among_reached": 27.0,
+          "percent_of_all_with_observed_flip": 27.0
+        },
+        "cr_shap": {
+          "n_reached": 100,
+          "n_unreached": 0,
+          "n_flipped": 37,
+          "percent_among_reached": 37.0,
+          "percent_of_all_with_observed_flip": 37.0
+        },
+        "paired_common_coverage": {
+          "n": 100,
+          "pointwise": 27.0,
+          "cr_shap": 37.0
+        }
+      },
+      "50": {
+        "pointwise": {
+          "n_reached": 98,
+          "n_unreached": 2,
+          "n_flipped": 31,
+          "percent_among_reached": 31.632653061224488,
+          "percent_of_all_with_observed_flip": 31.0
+        },
+        "cr_shap": {
+          "n_reached": 71,
+          "n_unreached": 29,
+          "n_flipped": 34,
+          "percent_among_reached": 47.88732394366197,
+          "percent_of_all_with_observed_flip": 34.0
+        },
+        "paired_common_coverage": {
+          "n": 70,
+          "pointwise": 34.285714285714285,
+          "cr_shap": 48.57142857142857
+        }
+      }
+    },
+    "margin25": {
+      "pointwise": {
+        "n_reached": 100,
+        "mean_margin": 0.0066863161325454714,
+        "mean_margin_drop": 0.010244771540164947
+      },
+      "cr_shap": {
+        "n_reached": 100,
+        "mean_margin": 0.004411997199058533,
+        "mean_margin_drop": 0.012519090473651885
+      }
+    },
+    "no_positive_attribution": {
+      "pointwise": 0,
+      "cr_shap": 0
+    },
+    "wilcoxon": {
+      "statistic": 1324.0,
+      "pvalue": 3.6366664685075e-05,
+      "alternative": "two-sided",
+      "multiple_testing_correction": null
+    },
+    "paired_bootstrap_mean_difference_ci95": {
+      "low": 0.024429064900582997,
+      "high": 0.06863041565584616,
+      "resamples": 10000,
+      "seed": 42,
+      "method": "percentile"
+    }
+  },
+  "categories": {
+    "add_att": {
+      "n": 14,
+      "pointwise_mean_pdauc": 0.5646565397665636,
+      "pointwise_median_pdauc": 0.5889963821657911,
+      "cr_shap_mean_pdauc": 0.5225858506862642,
+      "cr_shap_median_pdauc": 0.48317120792970975,
+      "mean_paired_difference": 0.04207068908029956,
+      "median_paired_difference": 0.041599419764803414,
+      "relative_mean_improvement_percent": 7.450668878765157,
+      "cr_shap_wins": 10,
+      "pointwise_wins": 4,
+      "ties": 0,
+      "rankflip": {
+        "25": {
+          "pointwise": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 5,
+            "percent_among_reached": 35.714285714285715,
+            "percent_of_all_with_observed_flip": 35.714285714285715
+          },
+          "cr_shap": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 6,
+            "percent_among_reached": 42.857142857142854,
+            "percent_of_all_with_observed_flip": 42.857142857142854
+          },
+          "paired_common_coverage": {
+            "n": 14,
+            "pointwise": 35.714285714285715,
+            "cr_shap": 42.857142857142854
+          }
+        },
+        "50": {
+          "pointwise": {
+            "n_reached": 13,
+            "n_unreached": 1,
+            "n_flipped": 4,
+            "percent_among_reached": 30.76923076923077,
+            "percent_of_all_with_observed_flip": 28.571428571428573
+          },
+          "cr_shap": {
+            "n_reached": 8,
+            "n_unreached": 6,
+            "n_flipped": 5,
+            "percent_among_reached": 62.5,
+            "percent_of_all_with_observed_flip": 35.714285714285715
+          },
+          "paired_common_coverage": {
+            "n": 8,
+            "pointwise": 37.5,
+            "cr_shap": 62.5
+          }
+        }
+      },
+      "margin25": {
+        "pointwise": {
+          "n_reached": 14,
+          "mean_margin": 1.671590975352696e-05,
+          "mean_margin_drop": 0.011557004281452723
+        },
+        "cr_shap": {
+          "n_reached": 14,
+          "mean_margin": 0.0013562430228505815,
+          "mean_margin_drop": 0.010217477168355669
+        }
+      },
+      "no_positive_attribution": {
+        "pointwise": 0,
+        "cr_shap": 0
+      }
+    },
+    "add_obj": {
+      "n": 14,
+      "pointwise_mean_pdauc": 0.6114196918765147,
+      "pointwise_median_pdauc": 0.6620157684076159,
+      "cr_shap_mean_pdauc": 0.5121750085919069,
+      "cr_shap_median_pdauc": 0.49413368639789385,
+      "mean_paired_difference": 0.09924468328460771,
+      "median_paired_difference": 0.07237904735856152,
+      "relative_mean_improvement_percent": 16.231842808335923,
+      "cr_shap_wins": 11,
+      "pointwise_wins": 3,
+      "ties": 0,
+      "rankflip": {
+        "25": {
+          "pointwise": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 3,
+            "percent_among_reached": 21.428571428571427,
+            "percent_of_all_with_observed_flip": 21.428571428571427
+          },
+          "cr_shap": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 7,
+            "percent_among_reached": 50.0,
+            "percent_of_all_with_observed_flip": 50.0
+          },
+          "paired_common_coverage": {
+            "n": 14,
+            "pointwise": 21.428571428571427,
+            "cr_shap": 50.0
+          }
+        },
+        "50": {
+          "pointwise": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 4,
+            "percent_among_reached": 28.571428571428573,
+            "percent_of_all_with_observed_flip": 28.571428571428573
+          },
+          "cr_shap": {
+            "n_reached": 11,
+            "n_unreached": 3,
+            "n_flipped": 6,
+            "percent_among_reached": 54.54545454545455,
+            "percent_of_all_with_observed_flip": 42.857142857142854
+          },
+          "paired_common_coverage": {
+            "n": 11,
+            "pointwise": 36.36363636363637,
+            "cr_shap": 54.54545454545455
+          }
+        }
+      },
+      "margin25": {
+        "pointwise": {
+          "n_reached": 14,
+          "mean_margin": 0.005167081952095032,
+          "mean_margin_drop": 0.01040073377745492
+        },
+        "cr_shap": {
+          "n_reached": 14,
+          "mean_margin": 0.0021048326577459064,
+          "mean_margin_drop": 0.013462983071804047
+        }
+      },
+      "no_positive_attribution": {
+        "pointwise": 0,
+        "cr_shap": 0
+      }
+    },
+    "replace_att": {
+      "n": 15,
+      "pointwise_mean_pdauc": 0.621779041481485,
+      "pointwise_median_pdauc": 0.6299109207060152,
+      "cr_shap_mean_pdauc": 0.5863825468746212,
+      "cr_shap_median_pdauc": 0.5930394481032455,
+      "mean_paired_difference": 0.03539649460686368,
+      "median_paired_difference": 0.04017814582409973,
+      "relative_mean_improvement_percent": 5.6927770550975865,
+      "cr_shap_wins": 10,
+      "pointwise_wins": 5,
+      "ties": 0,
+      "rankflip": {
+        "25": {
+          "pointwise": {
+            "n_reached": 15,
+            "n_unreached": 0,
+            "n_flipped": 5,
+            "percent_among_reached": 33.333333333333336,
+            "percent_of_all_with_observed_flip": 33.333333333333336
+          },
+          "cr_shap": {
+            "n_reached": 15,
+            "n_unreached": 0,
+            "n_flipped": 6,
+            "percent_among_reached": 40.0,
+            "percent_of_all_with_observed_flip": 40.0
+          },
+          "paired_common_coverage": {
+            "n": 15,
+            "pointwise": 33.333333333333336,
+            "cr_shap": 40.0
+          }
+        },
+        "50": {
+          "pointwise": {
+            "n_reached": 14,
+            "n_unreached": 1,
+            "n_flipped": 3,
+            "percent_among_reached": 21.428571428571427,
+            "percent_of_all_with_observed_flip": 20.0
+          },
+          "cr_shap": {
+            "n_reached": 12,
+            "n_unreached": 3,
+            "n_flipped": 4,
+            "percent_among_reached": 33.333333333333336,
+            "percent_of_all_with_observed_flip": 26.666666666666668
+          },
+          "paired_common_coverage": {
+            "n": 11,
+            "pointwise": 27.272727272727273,
+            "cr_shap": 36.36363636363637
+          }
+        }
+      },
+      "margin25": {
+        "pointwise": {
+          "n_reached": 15,
+          "mean_margin": 0.0066230565309524534,
+          "mean_margin_drop": 0.007898969451586406
+        },
+        "cr_shap": {
+          "n_reached": 15,
+          "mean_margin": 0.003923243284225464,
+          "mean_margin_drop": 0.010598782698313396
+        }
+      },
+      "no_positive_attribution": {
+        "pointwise": 0,
+        "cr_shap": 0
+      }
+    },
+    "replace_obj": {
+      "n": 15,
+      "pointwise_mean_pdauc": 0.6911083851066169,
+      "pointwise_median_pdauc": 0.6969506906715937,
+      "cr_shap_mean_pdauc": 0.6494265943407818,
+      "cr_shap_median_pdauc": 0.6569288516092532,
+      "mean_paired_difference": 0.041681790765835135,
+      "median_paired_difference": 0.03285356571084297,
+      "relative_mean_improvement_percent": 6.031151070378766,
+      "cr_shap_wins": 10,
+      "pointwise_wins": 5,
+      "ties": 0,
+      "rankflip": {
+        "25": {
+          "pointwise": {
+            "n_reached": 15,
+            "n_unreached": 0,
+            "n_flipped": 3,
+            "percent_among_reached": 20.0,
+            "percent_of_all_with_observed_flip": 20.0
+          },
+          "cr_shap": {
+            "n_reached": 15,
+            "n_unreached": 0,
+            "n_flipped": 3,
+            "percent_among_reached": 20.0,
+            "percent_of_all_with_observed_flip": 20.0
+          },
+          "paired_common_coverage": {
+            "n": 15,
+            "pointwise": 20.0,
+            "cr_shap": 20.0
+          }
+        },
+        "50": {
+          "pointwise": {
+            "n_reached": 15,
+            "n_unreached": 0,
+            "n_flipped": 5,
+            "percent_among_reached": 33.333333333333336,
+            "percent_of_all_with_observed_flip": 33.333333333333336
+          },
+          "cr_shap": {
+            "n_reached": 15,
+            "n_unreached": 0,
+            "n_flipped": 6,
+            "percent_among_reached": 40.0,
+            "percent_of_all_with_observed_flip": 40.0
+          },
+          "paired_common_coverage": {
+            "n": 15,
+            "pointwise": 33.333333333333336,
+            "cr_shap": 40.0
+          }
+        }
+      },
+      "margin25": {
+        "pointwise": {
+          "n_reached": 15,
+          "mean_margin": 0.022771701216697693,
+          "mean_margin_drop": 0.022075347105662026
+        },
+        "cr_shap": {
+          "n_reached": 15,
+          "mean_margin": 0.01781907379627228,
+          "mean_margin_drop": 0.027027974526087444
+        }
+      },
+      "no_positive_attribution": {
+        "pointwise": 0,
+        "cr_shap": 0
+      }
+    },
+    "replace_rel": {
+      "n": 14,
+      "pointwise_mean_pdauc": 0.550905033041093,
+      "pointwise_median_pdauc": 0.5624865244268185,
+      "cr_shap_mean_pdauc": 0.5335663029535556,
+      "cr_shap_median_pdauc": 0.5205279574332571,
+      "mean_paired_difference": 0.017338730087537453,
+      "median_paired_difference": 0.01781530388550337,
+      "relative_mean_improvement_percent": 3.1473174227188676,
+      "cr_shap_wins": 10,
+      "pointwise_wins": 4,
+      "ties": 0,
+      "rankflip": {
+        "25": {
+          "pointwise": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 4,
+            "percent_among_reached": 28.571428571428573,
+            "percent_of_all_with_observed_flip": 28.571428571428573
+          },
+          "cr_shap": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 7,
+            "percent_among_reached": 50.0,
+            "percent_of_all_with_observed_flip": 50.0
+          },
+          "paired_common_coverage": {
+            "n": 14,
+            "pointwise": 28.571428571428573,
+            "cr_shap": 50.0
+          }
+        },
+        "50": {
+          "pointwise": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 7,
+            "percent_among_reached": 50.0,
+            "percent_of_all_with_observed_flip": 50.0
+          },
+          "cr_shap": {
+            "n_reached": 9,
+            "n_unreached": 5,
+            "n_flipped": 4,
+            "percent_among_reached": 44.44444444444444,
+            "percent_of_all_with_observed_flip": 28.571428571428573
+          },
+          "paired_common_coverage": {
+            "n": 9,
+            "pointwise": 44.44444444444444,
+            "cr_shap": 44.44444444444444
+          }
+        }
+      },
+      "margin25": {
+        "pointwise": {
+          "n_reached": 14,
+          "mean_margin": 0.004725755325385502,
+          "mean_margin_drop": 0.0065252578684261865
+        },
+        "cr_shap": {
+          "n_reached": 14,
+          "mean_margin": 0.002468670053141458,
+          "mean_margin_drop": 0.008782343140670232
+        }
+      },
+      "no_positive_attribution": {
+        "pointwise": 0,
+        "cr_shap": 0
+      }
+    },
+    "swap_att": {
+      "n": 14,
+      "pointwise_mean_pdauc": 0.5272914883547208,
+      "pointwise_median_pdauc": 0.5495189735942894,
+      "cr_shap_mean_pdauc": 0.48274875410730717,
+      "cr_shap_median_pdauc": 0.530797654548233,
+      "mean_paired_difference": 0.044542734247413694,
+      "median_paired_difference": 0.04331063195944217,
+      "relative_mean_improvement_percent": 8.447459371361747,
+      "cr_shap_wins": 9,
+      "pointwise_wins": 5,
+      "ties": 0,
+      "rankflip": {
+        "25": {
+          "pointwise": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 4,
+            "percent_among_reached": 28.571428571428573,
+            "percent_of_all_with_observed_flip": 28.571428571428573
+          },
+          "cr_shap": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 4,
+            "percent_among_reached": 28.571428571428573,
+            "percent_of_all_with_observed_flip": 28.571428571428573
+          },
+          "paired_common_coverage": {
+            "n": 14,
+            "pointwise": 28.571428571428573,
+            "cr_shap": 28.571428571428573
+          }
+        },
+        "50": {
+          "pointwise": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 5,
+            "percent_among_reached": 35.714285714285715,
+            "percent_of_all_with_observed_flip": 35.714285714285715
+          },
+          "cr_shap": {
+            "n_reached": 6,
+            "n_unreached": 8,
+            "n_flipped": 3,
+            "percent_among_reached": 50.0,
+            "percent_of_all_with_observed_flip": 21.428571428571427
+          },
+          "paired_common_coverage": {
+            "n": 6,
+            "pointwise": 33.333333333333336,
+            "cr_shap": 50.0
+          }
+        }
+      },
+      "margin25": {
+        "pointwise": {
+          "n_reached": 14,
+          "mean_margin": 0.0006821283272334508,
+          "mean_margin_drop": 0.009326777287891932
+        },
+        "cr_shap": {
+          "n_reached": 14,
+          "mean_margin": -0.00228002667427063,
+          "mean_margin_drop": 0.012288932289396013
+        }
+      },
+      "no_positive_attribution": {
+        "pointwise": 0,
+        "cr_shap": 0
+      }
+    },
+    "swap_obj": {
+      "n": 14,
+      "pointwise_mean_pdauc": 0.591617173600587,
+      "pointwise_median_pdauc": 0.5600249682555742,
+      "cr_shap_mean_pdauc": 0.5441567899533241,
+      "cr_shap_median_pdauc": 0.5277689263410911,
+      "mean_paired_difference": 0.04746038364726289,
+      "median_paired_difference": 0.028746966147485176,
+      "relative_mean_improvement_percent": 8.022144346895578,
+      "cr_shap_wins": 11,
+      "pointwise_wins": 3,
+      "ties": 0,
+      "rankflip": {
+        "25": {
+          "pointwise": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 3,
+            "percent_among_reached": 21.428571428571427,
+            "percent_of_all_with_observed_flip": 21.428571428571427
+          },
+          "cr_shap": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 4,
+            "percent_among_reached": 28.571428571428573,
+            "percent_of_all_with_observed_flip": 28.571428571428573
+          },
+          "paired_common_coverage": {
+            "n": 14,
+            "pointwise": 21.428571428571427,
+            "cr_shap": 28.571428571428573
+          }
+        },
+        "50": {
+          "pointwise": {
+            "n_reached": 14,
+            "n_unreached": 0,
+            "n_flipped": 3,
+            "percent_among_reached": 21.428571428571427,
+            "percent_of_all_with_observed_flip": 21.428571428571427
+          },
+          "cr_shap": {
+            "n_reached": 10,
+            "n_unreached": 4,
+            "n_flipped": 6,
+            "percent_among_reached": 60.0,
+            "percent_of_all_with_observed_flip": 42.857142857142854
+          },
+          "paired_common_coverage": {
+            "n": 10,
+            "pointwise": 30.0,
+            "cr_shap": 60.0
+          }
+        }
+      },
+      "margin25": {
+        "pointwise": {
+          "n_reached": 14,
+          "mean_margin": 0.005673336131232125,
+          "mean_margin_drop": 0.003251827188900539
+        },
+        "cr_shap": {
+          "n_reached": 14,
+          "mean_margin": 0.004569206918988909,
+          "mean_margin_drop": 0.004355956401143756
+        }
+      },
+      "no_positive_attribution": {
+        "pointwise": 0,
+        "cr_shap": 0
+      }
+    }
+  },
+  "original_margin_relationship": {
+    "exploratory": true,
+    "spearman_rho": 0.03483948394839484,
+    "pvalue": 0.730756681831921
+  },
+  "threshold_convention": "Unreached actual deletion thresholds are missing; report reached-case and common-case denominators.",
+  "screening": {
+    "overall": {
+      "n_examined": 7511,
+      "n_correct": 5745,
+      "n_incorrect": 1766,
+      "n_ties": 0,
+      "accuracy": 0.7648781786712822
+    },
+    "categories": {
+      "add_att": {
+        "n_examined": 692,
+        "n_correct": 480,
+        "n_incorrect": 212,
+        "n_ties": 0,
+        "accuracy": 0.6936416184971098
+      },
+      "add_obj": {
+        "n_examined": 2062,
+        "n_correct": 1586,
+        "n_incorrect": 476,
+        "n_ties": 0,
+        "accuracy": 0.7691561590688651
+      },
+      "replace_att": {
+        "n_examined": 788,
+        "n_correct": 631,
+        "n_incorrect": 157,
+        "n_ties": 0,
+        "accuracy": 0.800761421319797
+      },
+      "replace_obj": {
+        "n_examined": 1652,
+        "n_correct": 1497,
+        "n_incorrect": 155,
+        "n_ties": 0,
+        "accuracy": 0.9061743341404358
+      },
+      "replace_rel": {
+        "n_examined": 1406,
+        "n_correct": 975,
+        "n_incorrect": 431,
+        "n_ties": 0,
+        "accuracy": 0.6934566145092461
+      },
+      "swap_att": {
+        "n_examined": 666,
+        "n_correct": 427,
+        "n_incorrect": 239,
+        "n_ties": 0,
+        "accuracy": 0.6411411411411412
+      },
+      "swap_obj": {
+        "n_examined": 245,
+        "n_correct": 149,
+        "n_incorrect": 96,
+        "n_ties": 0,
+        "accuracy": 0.6081632653061224
+      }
+    },
+    "allocation": {
+      "add_att": 14,
+      "add_obj": 14,
+      "replace_att": 15,
+      "replace_obj": 15,
+      "replace_rel": 14,
+      "swap_att": 14,
+      "swap_obj": 14
+    },
+    "gamma": 100.0,
+    "seed": 42,
+    "selection_rule": "Seeded balanced water filling across official categories, then uniform sampling without replacement among correctly ranked instances.",
+    "unique_images": 1560,
+    "unique_captions": 11844,
+    "screening_seconds": 36.207847100000436,
+    "clip_commit": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+    "device": "cuda",
+    "preprocessing": "Experiment 1: EXIF transpose, RGB, aspect-preserving max side 512, then identical CLIPProcessor.",
+    "packages": {
+      "certifi": "2026.7.22",
+      "charset-normalizer": "3.5.2",
+      "colorama": "0.4.6",
+      "contourpy": "1.3.3",
+      "cycler": "0.12.1",
+      "filelock": "4.0.11",
+      "fonttools": "4.66.1",
+      "fsspec": "2026.9.0",
+      "huggingface_hub": "0.36.2",
+      "idna": "3.20",
+      "ImageIO": "2.38.0",
+      "iniconfig": "2.3.0",
+      "Jinja2": "3.1.6",
+      "kiwisolver": "1.5.1",
+      "lazy-loader": "0.6",
+      "MarkupSafe": "3.0.4",
+      "matplotlib": "3.9.2",
+      "mpmath": "1.3.0",
+      "networkx": "3.6.1",
+      "numpy": "1.26.4",
+      "opencv-python": "4.10.0.84",
+      "packaging": "26.3",
+      "pillow": "10.4.0",
+      "pluggy": "1.6.0",
+      "pyparsing": "3.3.3",
+      "pytest": "8.3.3",
+      "python-dateutil": "2.9.0.post0",
+      "PyYAML": "6.0.3",
+      "regex": "2026.9.29",
+      "requests": "2.34.2",
+      "safetensors": "0.8.0",
+      "scikit-image": "0.24.0",
+      "scipy": "1.14.1",
+      "setuptools": "78.1.0",
+      "six": "1.17.0",
+      "sympy": "1.14.0",
+      "tifffile": "2026.3.3",
+      "tokenizers": "0.20.3",
+      "torch": "2.11.0+cu128",
+      "tqdm": "4.70.1",
+      "transformers": "4.46.3",
+      "typing_extensions": "4.16.0",
+      "urllib3": "2.8.0"
+    }
+  },
+  "configuration": {
+    "model": "openai/clip-vit-base-patch32",
+    "seed": 42,
+    "n_coalitions": 128,
+    "slic": {
+      "n_segments": 16,
+      "compactness": 30,
+      "start_label": 0,
+      "channel_axis": -1,
+      "other_parameters": "Unmodified scikit-image 0.24.0 defaults"
+    },
+    "max_side": 512,
+    "batch_size": 16,
+    "allow_tf32": false,
+    "masking": "Original global RGB mean, rounded to uint8; no expansion",
+    "deletion": "Validated Experiment 1 Telea radius 3; strictly positive SHAP descending, ascending-index tie break",
+    "tail": "Constant preference to x=1 solely for integration; not an actual deletion state",
+    "unreached_threshold": "Missing; report coverage and common-case paired rates",
+    "all_masked_fallback": "Validated global RGB mean for Telea with no remaining context",
+    "runtime": "Each method records shared coalition generation/scoring cost plus its own regression time; shared cost executed only once."
+  },
+  "gamma": 100.0,
+  "selected_unique_images": 96
+}

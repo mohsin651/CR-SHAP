@@ -1,0 +1,12 @@
+{
+  "seed": 2026,
+  "eligible_unique_images": 793,
+  "initial_n": 300,
+  "final_n": 300,
+  "unique_images": 300,
+  "technical_exclusions": 0,
+  "reserve_images_checked": 0,
+  "replacement_ids": [],
+  "rule": "Uniform seeded permutation over correctly ranked unique images; technical replacements from fixed reserve only before outcomes.",
+  "selection_sha256": "4a4ff66ecc35f25df037344988e7e16efeb60dcd21c06f06d54077910a783c7b"
+}

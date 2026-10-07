@@ -1,0 +1,95 @@
+{
+  "rule": "Five largest differences, five closest to zero among remaining images, five smallest differences; deterministic image-ID ties.",
+  "examples": [
+    {
+      "stratum": "improvement",
+      "index": 126,
+      "image_id": "6317293855",
+      "difference": 0.6608893438615624
+    },
+    {
+      "stratum": "improvement",
+      "index": 148,
+      "image_id": "4846324908",
+      "difference": 0.6591503370846755
+    },
+    {
+      "stratum": "improvement",
+      "index": 128,
+      "image_id": "2844641033",
+      "difference": 0.5932281949867714
+    },
+    {
+      "stratum": "improvement",
+      "index": 237,
+      "image_id": "3903017514",
+      "difference": 0.5610893844255633
+    },
+    {
+      "stratum": "improvement",
+      "index": 50,
+      "image_id": "1395410911",
+      "difference": 0.5343016527758494
+    },
+    {
+      "stratum": "near_zero",
+      "index": 97,
+      "image_id": "5501939468",
+      "difference": 1.6871761864711843e-05
+    },
+    {
+      "stratum": "near_zero",
+      "index": 224,
+      "image_id": "3532476966",
+      "difference": 5.240454921484616e-05
+    },
+    {
+      "stratum": "near_zero",
+      "index": 21,
+      "image_id": "2549933281",
+      "difference": -9.412105414785543e-05
+    },
+    {
+      "stratum": "near_zero",
+      "index": 127,
+      "image_id": "3155400369",
+      "difference": -0.00013001170393800443
+    },
+    {
+      "stratum": "near_zero",
+      "index": 57,
+      "image_id": "4727540499",
+      "difference": -0.00036817857527182696
+    },
+    {
+      "stratum": "worsening",
+      "index": 275,
+      "image_id": "7329031116",
+      "difference": -0.6284796073781083
+    },
+    {
+      "stratum": "worsening",
+      "index": 41,
+      "image_id": "3039200576",
+      "difference": -0.4505331168891842
+    },
+    {
+      "stratum": "worsening",
+      "index": 265,
+      "image_id": "3612485097",
+      "difference": -0.3594724831736761
+    },
+    {
+      "stratum": "worsening",
+      "index": 259,
+      "image_id": "3421480658",
+      "difference": -0.3463107318270623
+    },
+    {
+      "stratum": "worsening",
+      "index": 15,
+      "image_id": "1404832008",
+      "difference": -0.3305011842522054
+    }
+  ]
+}

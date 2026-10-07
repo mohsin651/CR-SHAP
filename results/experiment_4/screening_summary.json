@@ -1,0 +1,122 @@
+{
+  "total_test_images": 1000,
+  "total_captions": 5000,
+  "correctly_ranked": 793,
+  "incorrect_or_tied": 207,
+  "ties": 0,
+  "correctly_ranked_percent": 79.3,
+  "distributions": {
+    "original_positive_cosine": {
+      "mean": 0.34040039151906964,
+      "median": 0.3410845845937729,
+      "standard_deviation": 0.02887161226818398,
+      "minimum": 0.2536252737045288,
+      "maximum": 0.448204904794693,
+      "std_ddof": 0
+    },
+    "original_negative_cosine": {
+      "mean": 0.3169595196545124,
+      "median": 0.3164200633764267,
+      "standard_deviation": 0.021771031146093803,
+      "minimum": 0.2406400740146637,
+      "maximum": 0.394555926322937,
+      "std_ddof": 0
+    },
+    "original_margin": {
+      "mean": 0.023440871864557265,
+      "median": 0.022532910108566284,
+      "standard_deviation": 0.028671214897325003,
+      "minimum": -0.06492447853088379,
+      "maximum": 0.12637826800346375,
+      "std_ddof": 0
+    }
+  },
+  "retrieval": {
+    "image_to_text": {
+      "R@1": 0.793,
+      "R@5": 0.95,
+      "R@10": 0.981
+    },
+    "text_to_image": {
+      "R@1": 0.5882,
+      "R@5": 0.8344,
+      "R@10": 0.9008
+    },
+    "ties": "Stable ordering by saved image/caption index; strict positive margin required for explanation eligibility."
+  },
+  "clip_commit": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "gamma": 100.0,
+  "screening_runtime_seconds": 8.458828999999696,
+  "device": "cuda",
+  "packages": {
+    "certifi": "2026.7.22",
+    "charset-normalizer": "3.5.2",
+    "colorama": "0.4.6",
+    "contourpy": "1.3.3",
+    "cycler": "0.12.1",
+    "filelock": "4.0.11",
+    "fonttools": "4.66.1",
+    "fsspec": "2026.9.0",
+    "huggingface_hub": "0.36.2",
+    "idna": "3.20",
+    "ImageIO": "2.38.0",
+    "iniconfig": "2.3.0",
+    "Jinja2": "3.1.6",
+    "kiwisolver": "1.5.1",
+    "lazy-loader": "0.6",
+    "MarkupSafe": "3.0.4",
+    "matplotlib": "3.9.2",
+    "mpmath": "1.3.0",
+    "networkx": "3.6.1",
+    "numpy": "1.26.4",
+    "opencv-python": "4.10.0.84",
+    "packaging": "26.3",
+    "pillow": "10.4.0",
+    "pluggy": "1.6.0",
+    "pyparsing": "3.3.3",
+    "pytest": "8.3.3",
+    "python-dateutil": "2.9.0.post0",
+    "PyYAML": "6.0.3",
+    "regex": "2026.9.29",
+    "requests": "2.34.2",
+    "safetensors": "0.8.0",
+    "scikit-image": "0.24.0",
+    "scipy": "1.14.1",
+    "setuptools": "78.1.0",
+    "six": "1.17.0",
+    "sympy": "1.14.0",
+    "tifffile": "2026.3.3",
+    "tokenizers": "0.20.3",
+    "torch": "2.11.0+cu128",
+    "tqdm": "4.70.1",
+    "transformers": "4.46.3",
+    "typing_extensions": "4.16.0",
+    "urllib3": "2.8.0"
+  },
+  "dataset_source": {
+    "annotation_url": "https://cs.stanford.edu/people/karpathy/deepimagesent/caption_datasets.zip",
+    "annotation_sha256": "db779ee2c5df40c25ff0eebeca464f6124b620cc4a9398650aea71fd1b53d4af",
+    "archive_sha256": "4cfd70132527b80933105e5829dc9034eaab9573482e2e680abbab6130244817",
+    "mirror_url": "https://github.com/OpenGVLab/InternVL/releases/download/data/flickr30k_test_karpathy.json",
+    "mirror_sha256": "5c4039dccbc8462376f9c9b4a10cfcec05a79b396fe569f4d754f20269edd1e3",
+    "image_dataset": "nlphuji/flickr30k",
+    "viewer_revision": "2b239befc81b6e3f035ce6bd52f5f4d60f5625f7",
+    "image_archive": {
+      "url": "https://huggingface.co/datasets/nlphuji/flickr30k/resolve/2b239befc81b6e3f035ce6bd52f5f4d60f5625f7/flickr30k-images.zip?download=true",
+      "sha256": "2ce2420c0d17f0531deaa89ac657b4d5067ec519da16ff1ea12acbf5619c7391",
+      "bytes": 4390240817
+    },
+    "note": "HF test is a mixed-partition container; only original Karpathy test rows are fetched and cross-validated."
+  },
+  "split_validation": {
+    "unique_test_images": 1000,
+    "captions": 5000,
+    "captions_per_image_distribution": {
+      "5": 1000
+    },
+    "ownership_validated": true,
+    "ordering": "Images sorted by filename; captions sorted by original Karpathy sentence ID within image.",
+    "independent_retrieval_mirror_matches": true,
+    "mirror_transport_decoding": "CSV outer/doubled quotes decoded for cross-check only; original Karpathy captions used verbatim."
+  }
+}

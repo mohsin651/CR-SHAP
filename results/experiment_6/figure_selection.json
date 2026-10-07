@@ -1,0 +1,57 @@
+[
+  {
+    "stratum": "both_grounded",
+    "image_id": "10287332",
+    "experiment4_index": 63
+  },
+  {
+    "stratum": "both_grounded",
+    "image_id": "1082250005",
+    "experiment4_index": 264
+  },
+  {
+    "stratum": "cr_only_grounded",
+    "image_id": "2391094555",
+    "experiment4_index": 295
+  },
+  {
+    "stratum": "cr_only_grounded",
+    "image_id": "246231741",
+    "experiment4_index": 161
+  },
+  {
+    "stratum": "point_only_grounded",
+    "image_id": "102617084",
+    "experiment4_index": 149
+  },
+  {
+    "stratum": "point_only_grounded",
+    "image_id": "1255504166",
+    "experiment4_index": 150
+  },
+  {
+    "stratum": "neither_grounded",
+    "image_id": "1313869424",
+    "experiment4_index": 191
+  },
+  {
+    "stratum": "neither_grounded",
+    "image_id": "139245992",
+    "experiment4_index": 86
+  },
+  {
+    "stratum": "outside_box_evidence",
+    "image_id": "1255504166",
+    "experiment4_index": 150
+  },
+  {
+    "stratum": "outside_box_evidence",
+    "image_id": "3278581900",
+    "experiment4_index": 207
+  },
+  {
+    "stratum": "outside_box_evidence",
+    "image_id": "4846324908",
+    "experiment4_index": 148
+  }
+]

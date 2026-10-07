@@ -1,0 +1,12 @@
+{
+  "experiment3\\__init__.py": "96dc2797bbc75430efdbd048a3708f369f95cefa6944c8d26ed6bc9d882f9bb1",
+  "experiment3\\amend.py": "fb115443862d64261a251c3b873978c7dbbc855ce45626734a334b4f856c02e6",
+  "experiment3\\core.py": "1b260684f938104f0f0a90bef4fadbe785a0a9d962d36998f69543cfd1fb2208",
+  "experiment3\\preflight.py": "aa350df54aa60eced9ee4b50d3bdd6be287d948fb1dfc18a19dd4317d6a7e34e",
+  "experiment3\\prepare.py": "80d7c7476083b7dbc2fc75322a6f3598927dcc5eed9fc5e3246b2b81f2c08536",
+  "experiment3\\README.md": "41b07287c4570283ae86081f1431228cfb62c8f91b1d90e478136774088fc390",
+  "experiment3\\record_stop.py": "d53915e5dd3375e1320010fddda6af0baf09b61e97b4dc010362ce76731e77a6",
+  "experiment3\\report.py": "b0fad75d108c25fecf59a44b9b286f9c7f74a0b890ecaa81c2d7aff459fff207",
+  "experiment3\\run.py": "44e89a23a52343d9942ff52561fd2fb7994448858aa8ab5e39ea24239d3717d3",
+  "experiment3\\verify.py": "bcab8211e4e9f861b811d55dbcad5ea7649ceaf86919a0fddea880390aed7c44"
+}

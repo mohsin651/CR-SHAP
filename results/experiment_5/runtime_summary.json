@@ -1,0 +1,7 @@
+{
+  "gradient_shared_explanation_total_seconds": 25.57030019999638,
+  "gradient_shared_explanation_mean_seconds": 0.08523433399998794,
+  "gradient_shared_evaluation_total_seconds": 536.8727631999882,
+  "shap_shared_coalition_inference_total_seconds": 351.6623793999979,
+  "shap_both_regressions_total_seconds": 0.11100840000244716
+}

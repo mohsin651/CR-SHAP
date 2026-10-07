@@ -1,0 +1,20 @@
+{
+  "original793_exact": true,
+  "original300_subset": true,
+  "remainder493_disjoint": true,
+  "original_summary_exactly_reproduced": true,
+  "original_artifacts_hashed": 300,
+  "original_examples_independently_reconstructed": 5,
+  "new_preflight_complete": true,
+  "new_preflight_feasible": 493,
+  "failures": 0,
+  "source_hashes": {
+    "experiment4r\\__init__.py": "a988377c22598e92b1068d2d163d62b8d12a0a8d94d0e1a661543f1c1a2e0f95",
+    "experiment4r\\core.py": "ee50753acff7486bc780ba0651ac35d06ef9d7c5280e71e328fe917b066b7760",
+    "experiment4r\\pipeline.py": "faf4eba2e9bed51207b59784502aa15099cc69130ed6fa53d93e68e26de03d63",
+    "experiment4r\\prepare.py": "708eea37c9d74bac467af87ef8666c3837861e416ade939c8c2ead906a0b43c0",
+    "experiment4r\\report.py": "52a3336ee9effc82231c289c857cab17a2027bc41cb94d8cc9b099beeb1998b4",
+    "experiment4r\\run.py": "e6b1040ef3d88b22d78e59bf5d0f4588bab4169a16e5283ac937293c451eb200",
+    "experiment4r\\verify.py": "f17ee1aebe2f40abd3a83bd80482eef793dac1d7cbdfb40d2f03b2a39736a810"
+  }
+}

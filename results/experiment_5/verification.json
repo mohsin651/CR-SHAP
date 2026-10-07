@@ -1,0 +1,15 @@
+{
+  "all_passed": true,
+  "n": 300,
+  "protected_files_unchanged": 11987,
+  "zero_relu_maps": {
+    "grad_point": [],
+    "grad_cr": []
+  },
+  "cpu_gpu_float32_absolute_tolerances": {
+    "spatial_weights": 2e-06,
+    "maps": 1e-06,
+    "region_means_from_saved_pixels": "exact"
+  },
+  "scope": "Original sample/captions/SLIC/scores and SHAP preserved; native gradient formula, pre-ReLU linearity, crop projection, masks, crossings, preference, AUC and paired statistics reconstructed; no model inference."
+}
